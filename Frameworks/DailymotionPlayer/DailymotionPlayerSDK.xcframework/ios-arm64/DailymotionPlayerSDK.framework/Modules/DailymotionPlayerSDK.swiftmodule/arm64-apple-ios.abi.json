@@ -4819,9 +4819,17 @@
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "UIViewController",
-                "printedName": "UIKit.UIViewController",
-                "usr": "c:objc(cs)UIViewController"
+                "name": "Optional",
+                "printedName": "UIKit.UIViewController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIViewController",
+                    "printedName": "UIKit.UIViewController",
+                    "usr": "c:objc(cs)UIViewController"
+                  }
+                ],
+                "usr": "s:Sq"
               },
               {
                 "kind": "TypeNominal",
@@ -4832,7 +4840,7 @@
             ],
             "declKind": "Func",
             "usr": "c:@M@DailymotionPlayerSDK@objc(pl)DMPlayerDelegate(im)playerWillPresentFullscreenViewController:",
-            "mangledName": "$s20DailymotionPlayerSDK16DMPlayerDelegateP41playerWillPresentFullscreenViewControllerySo06UIViewK0CAA0dJ0CF",
+            "mangledName": "$s20DailymotionPlayerSDK16DMPlayerDelegateP41playerWillPresentFullscreenViewControllerySo06UIViewK0CSgAA0dJ0CF",
             "moduleName": "DailymotionPlayerSDK",
             "genericSig": "<τ_0_0 where τ_0_0 : DailymotionPlayerSDK.DMPlayerDelegate>",
             "sugared_genericSig": "<Self where Self : DailymotionPlayerSDK.DMPlayerDelegate>",
@@ -5232,6 +5240,70 @@
             "declKind": "Func",
             "usr": "c:@M@DailymotionPlayerSDK@objc(pl)DMPlayerDelegate(im)player:didChangeScaleMode:",
             "mangledName": "$s20DailymotionPlayerSDK16DMPlayerDelegateP6player_18didChangeScaleModeyAA0D4ViewC_SStF",
+            "moduleName": "DailymotionPlayerSDK",
+            "genericSig": "<τ_0_0 where τ_0_0 : DailymotionPlayerSDK.DMPlayerDelegate>",
+            "sugared_genericSig": "<Self where Self : DailymotionPlayerSDK.DMPlayerDelegate>",
+            "protocolReq": true,
+            "declAttributes": [
+              "Optional",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "playerDidFullScreenRequested",
+            "printedName": "playerDidFullScreenRequested(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "DMPlayerView",
+                "printedName": "DailymotionPlayerSDK.DMPlayerView",
+                "usr": "c:@M@DailymotionPlayerSDK@objc(cs)DMPlayerView"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@DailymotionPlayerSDK@objc(pl)DMPlayerDelegate(im)playerDidFullScreenRequested:",
+            "mangledName": "$s20DailymotionPlayerSDK16DMPlayerDelegateP28playerDidFullScreenRequestedyyAA0D4ViewCF",
+            "moduleName": "DailymotionPlayerSDK",
+            "genericSig": "<τ_0_0 where τ_0_0 : DailymotionPlayerSDK.DMPlayerDelegate>",
+            "sugared_genericSig": "<Self where Self : DailymotionPlayerSDK.DMPlayerDelegate>",
+            "protocolReq": true,
+            "declAttributes": [
+              "Optional",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "playerDidFullScreenExit",
+            "printedName": "playerDidFullScreenExit(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "DMPlayerView",
+                "printedName": "DailymotionPlayerSDK.DMPlayerView",
+                "usr": "c:@M@DailymotionPlayerSDK@objc(cs)DMPlayerView"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@DailymotionPlayerSDK@objc(pl)DMPlayerDelegate(im)playerDidFullScreenExit:",
+            "mangledName": "$s20DailymotionPlayerSDK16DMPlayerDelegateP23playerDidFullScreenExityyAA0D4ViewCF",
             "moduleName": "DailymotionPlayerSDK",
             "genericSig": "<τ_0_0 where τ_0_0 : DailymotionPlayerSDK.DMPlayerDelegate>",
             "sugared_genericSig": "<Self where Self : DailymotionPlayerSDK.DMPlayerDelegate>",
@@ -6667,6 +6739,28 @@
             "declKind": "Func",
             "usr": "s:20DailymotionPlayerSDK12DMPlayerViewC12updateParams6paramsyAA0D10ParametersV_tF",
             "mangledName": "$s20DailymotionPlayerSDK12DMPlayerViewC12updateParams6paramsyAA0D10ParametersV_tF",
+            "moduleName": "DailymotionPlayerSDK",
+            "declAttributes": [
+              "Custom",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "notifyFullscreenChanged",
+            "printedName": "notifyFullscreenChanged()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:20DailymotionPlayerSDK12DMPlayerViewC23notifyFullscreenChangedyyF",
+            "mangledName": "$s20DailymotionPlayerSDK12DMPlayerViewC23notifyFullscreenChangedyyF",
             "moduleName": "DailymotionPlayerSDK",
             "declAttributes": [
               "Custom",
@@ -16487,7 +16581,7 @@
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/Public\/DMPlayerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1611,
+      "offset": 1669,
       "length": 5,
       "value": "false"
     },
@@ -16501,42 +16595,42 @@
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/Public\/DMPlayerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 16750,
+      "offset": 17828,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/Public\/DMPlayerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 16825,
+      "offset": 17903,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/Public\/DMPlayerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 16887,
+      "offset": 17965,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/Public\/DMPlayerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 16750,
+      "offset": 17828,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/Public\/DMPlayerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 16825,
+      "offset": 17903,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/Public\/DMPlayerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 16887,
+      "offset": 17965,
       "length": 1,
       "value": "2"
     },
