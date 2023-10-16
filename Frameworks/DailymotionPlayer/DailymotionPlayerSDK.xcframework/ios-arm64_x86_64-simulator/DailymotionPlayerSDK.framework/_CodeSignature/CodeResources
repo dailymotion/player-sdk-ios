@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/DailymotionPlayerSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		KBB7rLtd0kOhi3/uAD8QNMWi5xM=
+		ay+pWg8af1VYYfpJtpM4Xl3ul/M=
 		</data>
 		<key>Modules/DailymotionPlayerSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -42,11 +42,11 @@
 		</data>
 		<key>Modules/DailymotionPlayerSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		qA4VBQF01lFHYhn3aeer8lsFmZ0=
+		QnY83w/QdG19Bd+pKWpxsn+xqCI=
 		</data>
 		<key>Modules/DailymotionPlayerSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		KBB7rLtd0kOhi3/uAD8QNMWi5xM=
+		ay+pWg8af1VYYfpJtpM4Xl3ul/M=
 		</data>
 		<key>Modules/DailymotionPlayerSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/DailymotionPlayerSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		DGll9vlUQg8RkjKV86VlCQ6+yJ4=
+		PK2HlFafr9sG46u7iqRZbG5D4ts=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -103,7 +103,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ENTzC+TqTiTrD/5+B+jFYztmikTcyE7Feu5unVxt9qM=
+			XGWb2WMznPdrQCarQHpWadjUug1wi23m6LI1bPE2n/A=
 			</data>
 		</dict>
 		<key>Modules/DailymotionPlayerSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -131,14 +131,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aZza8eklGEZplMoM7ewIbe6/gFUnbvXrm7tfNpopA2Q=
+			c4PmomKEGF46ISaFebnw564uHTZoH/PJ9/d5qVoS+PE=
 			</data>
 		</dict>
 		<key>Modules/DailymotionPlayerSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ENTzC+TqTiTrD/5+B+jFYztmikTcyE7Feu5unVxt9qM=
+			XGWb2WMznPdrQCarQHpWadjUug1wi23m6LI1bPE2n/A=
 			</data>
 		</dict>
 		<key>Modules/DailymotionPlayerSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -166,7 +166,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FnOLU6x3F+FybgTweMwS9zwPj+j4R/SSoUOUuUxi+vQ=
+			yhC4PYIKGr0JVJ3Jo3YktEKpl6QQWIWlpnDB47xk+60=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
