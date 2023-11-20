@@ -1,0 +1,45 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)
+// swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name DailymotionChromecast
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import AVKit
+import Combine
+import DeveloperToolsSupport
+import Foundation
+import GoogleCast
+import Swift
+import SwiftUI
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+import os.log
+import os
+public enum ChromecastSessionEvent {
+  case didEndPlayback
+  case didFail(error: any Swift.Error)
+  case didInitialize
+  case didFailInitialize(error: any Swift.Error)
+  case didStartPlayback
+  case didUpdatePosition(position: Foundation.TimeInterval)
+  case didUpdateDuration(duration: Foundation.TimeInterval)
+  case didPausePlayback
+}
+@objc public protocol DailymotionChromecastDelegate {
+  @objc func castStarted()
+  @objc func castStopped(position: Swift.Double)
+}
+open class DMChromecast {
+  weak public var delegate: (any DailymotionChromecast.DailymotionChromecastDelegate)?
+  public init(playable: DailymotionChromecast.Playable, containerView: UIKit.UIView, delegate: (any DailymotionChromecast.DailymotionChromecastDelegate)? = nil)
+  public static func startChromecast()
+  public func updatePlayable(playable: DailymotionChromecast.Playable)
+  public func updatePlayablePosition(position: Swift.Double)
+  @objc deinit
+}
+public struct Playable : Swift.Codable, Swift.Equatable {
+  public static func == (lhs: DailymotionChromecast.Playable, rhs: DailymotionChromecast.Playable) -> Swift.Bool
+  public init(chromecastUrl: Swift.String, isLive: Swift.Bool, duration: Swift.Int, currentPosition: Swift.Double, xid: Swift.String, thumbnailUrl: Foundation.URL, titile: Swift.String)
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
