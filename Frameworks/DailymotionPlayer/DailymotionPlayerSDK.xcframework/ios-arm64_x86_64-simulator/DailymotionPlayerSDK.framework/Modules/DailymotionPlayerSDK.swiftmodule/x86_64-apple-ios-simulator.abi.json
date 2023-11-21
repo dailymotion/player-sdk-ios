@@ -17793,8 +17793,15 @@
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/WebView\/SDKUtils.swift",
+      "kind": "StringLiteral",
+      "offset": 500,
+      "length": 8,
+      "value": "\"_alpha\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/WebView\/SDKUtils.swift",
       "kind": "IntegerLiteral",
-      "offset": 983,
+      "offset": 1016,
       "length": 1,
       "value": "0"
     },
