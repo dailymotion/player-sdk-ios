@@ -35,6 +35,7 @@ open class DMChromecast {
   public static func startChromecast()
   public func updatePlayable(playable: DailymotionChromecast.Playable)
   public func updatePlayablePosition(position: Swift.Double)
+  public func setup()
   @objc deinit
 }
 public struct Playable : Swift.Codable, Swift.Equatable {

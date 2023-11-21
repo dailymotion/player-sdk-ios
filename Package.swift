@@ -21,11 +21,11 @@ let package = Package(
     ),
     .binaryTarget(
       name: "DalymotionChromecast",
-      path: "Frameworks/DailymotionChromecast/DailymotionChromecast.xcframework"
+      path: "Frameworks/DalymotionChromecast/DalymotionChromecast.xcframework"
     ),
     .binaryTarget(
       name: "GoogleCast",
-      path: "Frameworks/DailymotionChromecast/GoogleCast.xcframework"
+      path: "Frameworks/DalymotionChromecast/GoogleCast.xcframework"
     ),
     .binaryTarget(
       name: "DailymotionPlayerSDK",
