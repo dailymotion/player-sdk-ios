@@ -10,7 +10,7 @@ let package = Package(
     // Products define the executables and libraries a package produces, and make them visible to other packages.
     .library(
       name: "DailymotionPlayerSDK",
-      targets: ["DailymotionPlayerSDK" ,"DalymotionChromecast" ,"GoogleCast" ,"DailymotionAdvertisingServices" ,"GoogleInteractiveMediaAds" ,"OMSDK_Dailymotion"]),
+      targets: ["DailymotionPlayerSDK" ,"DailymotionChromecast" ,"GoogleCast" ,"DailymotionAdvertisingServices" ,"GoogleInteractiveMediaAds" ,"OMSDK_Dailymotion"]),
   ],
   targets: [
     // Targets are the basic building blocks of a package. A target can define a module or a test suite.
@@ -20,7 +20,7 @@ let package = Package(
       path: "Frameworks/AdvertisingFramework/DailymotionAdvertisingServices.xcframework"
     ),
     .binaryTarget(
-      name: "DalymotionChromecast",
+      name: "DailymotionChromecast",
       path: "Frameworks/DailymotionChromecast/DailymotionChromecast.xcframework"
     ),
     .binaryTarget(
