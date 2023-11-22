@@ -222,10 +222,6 @@ extension DailymotionPlayerSDK.DMPlayerView {
     }
   }
 }
-extension DailymotionPlayerSDK.DMPlayerView : DailymotionChromecast.DailymotionChromecastDelegate {
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func castStarted()
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func castStopped(position: Swift.Double)
-}
 public struct DMPlayerState : Swift.Codable {
   public var adDescription: Swift.String?
   public var playerIsPipNativeSupported: Swift.Bool?

@@ -278,7 +278,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
 @import CoreFoundation;
-@import DailymotionChromecast;
 @import Foundation;
 @import ObjectiveC;
 @import UIKit;
@@ -491,12 +490,6 @@ typedef SWIFT_ENUM(NSInteger, PresentationMode, open) {
 /// Full Screen presentation mode
   PresentationModeFullscreen = 2,
 };
-
-
-@interface DMPlayerView (SWIFT_EXTENSION(DailymotionPlayerSDK)) <DailymotionChromecastDelegate>
-- (void)castStarted;
-- (void)castStoppedWithPosition:(double)position;
-@end
 
 
 

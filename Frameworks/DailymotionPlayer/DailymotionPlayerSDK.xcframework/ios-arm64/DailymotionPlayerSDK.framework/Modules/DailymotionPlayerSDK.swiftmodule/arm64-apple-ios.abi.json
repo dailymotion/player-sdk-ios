@@ -7093,62 +7093,6 @@
                 "mangledName": "$sSY"
               }
             ]
-          },
-          {
-            "kind": "Function",
-            "name": "castStarted",
-            "printedName": "castStarted()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@CM@DailymotionPlayerSDK@objc(cs)DMPlayerView(im)castStarted",
-            "mangledName": "$s20DailymotionPlayerSDK12DMPlayerViewC11castStartedyyF",
-            "moduleName": "DailymotionPlayerSDK",
-            "objc_name": "castStarted",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Custom",
-              "AccessControl"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "castStopped",
-            "printedName": "castStopped(position:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Double",
-                "printedName": "Swift.Double",
-                "usr": "s:Sd"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@CM@DailymotionPlayerSDK@objc(cs)DMPlayerView(im)castStoppedWithPosition:",
-            "mangledName": "$s20DailymotionPlayerSDK12DMPlayerViewC11castStopped8positionySd_tF",
-            "moduleName": "DailymotionPlayerSDK",
-            "objc_name": "castStoppedWithPosition:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Custom",
-              "AccessControl"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Class",
@@ -7170,13 +7114,6 @@
           "ObjectiveC.NSObject"
         ],
         "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "DailymotionChromecastDelegate",
-            "printedName": "DailymotionChromecastDelegate",
-            "usr": "c:@M@DailymotionChromecast@objc(pl)DailymotionChromecastDelegate",
-            "mangledName": "$s21DailymotionChromecast0aB8DelegateP"
-          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -17241,37 +17178,44 @@
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/ChromecastBridge\/ChromecastManager.swift",
       "kind": "StringLiteral",
-      "offset": 4224,
+      "offset": 4236,
       "length": 31,
       "value": "\"ChromecastManager castStarted\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/ChromecastBridge\/ChromecastManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 4294,
+      "offset": 4306,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/ChromecastBridge\/ChromecastManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 4331,
+      "offset": 4343,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/ChromecastBridge\/ChromecastManager.swift",
       "kind": "StringLiteral",
-      "offset": 4445,
+      "offset": 4471,
       "length": 47,
       "value": "\"ChromecastManager castStopped pos \""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/ChromecastBridge\/ChromecastManager.swift",
       "kind": "StringLiteral",
-      "offset": 4491,
+      "offset": 4517,
       "length": 2,
       "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/ChromecastBridge\/ChromecastManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4604,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/WebView\/WebviewUtils\/DMPlayerWebViewConstants.swift",

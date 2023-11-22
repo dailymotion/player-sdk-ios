@@ -16,7 +16,7 @@ import _SwiftConcurrencyShims
 import os.log
 import os
 public enum ChromecastSessionEvent {
-  case didEndPlayback
+  case didEndPlayback(playable: DailymotionChromecast.Playable?)
   case didFail(error: any Swift.Error)
   case didInitialize
   case didFailInitialize(error: any Swift.Error)
@@ -25,9 +25,9 @@ public enum ChromecastSessionEvent {
   case didUpdateDuration(duration: Foundation.TimeInterval)
   case didPausePlayback
 }
-@objc public protocol DailymotionChromecastDelegate {
-  @objc func castStarted()
-  @objc func castStopped(position: Swift.Double)
+public protocol DailymotionChromecastDelegate : AnyObject {
+  func castStarted(playable: DailymotionChromecast.Playable?)
+  func castStopped(position: Swift.Double, playable: DailymotionChromecast.Playable?)
 }
 open class DMChromecast {
   weak public var delegate: (any DailymotionChromecast.DailymotionChromecastDelegate)?
@@ -40,6 +40,25 @@ open class DMChromecast {
 }
 public struct Playable : Swift.Codable, Swift.Equatable {
   public static func == (lhs: DailymotionChromecast.Playable, rhs: DailymotionChromecast.Playable) -> Swift.Bool
+  public var chromecastUrl: Swift.String {
+    get
+  }
+  public var isLive: Swift.Bool {
+    get
+  }
+  public var duration: Swift.Int {
+    get
+  }
+  public var currentPosition: Swift.Double
+  public var xid: Swift.String {
+    get
+  }
+  public var thumbnailUrl: Foundation.URL {
+    get
+  }
+  public var titile: Swift.String {
+    get
+  }
   public init(chromecastUrl: Swift.String, isLive: Swift.Bool, duration: Swift.Int, currentPosition: Swift.Double, xid: Swift.String, thumbnailUrl: Foundation.URL, titile: Swift.String)
   public func encode(to encoder: any Swift.Encoder) throws
   public init(from decoder: any Swift.Decoder) throws

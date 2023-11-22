@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/DailymotionChromecast-Swift.h</key>
 		<data>
-		cvv+f1UoBazd57jn6WJuwH4IIPw=
+		/6OWsJezkuDtO5/1HECwoim0tso=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		ZrUzIMk4haGq73lHYgsZOp+GbTo=
+		iMDjoGmOMy5HMDfI6+F9uCnQC+M=
 		</data>
 		<key>Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		IjxKFdae0WXMFOdzIvpoaWcP5sw=
+		JA+d1EaMMG2higToq1ECDfDU9Jg=
 		</data>
 		<key>Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		IjxKFdae0WXMFOdzIvpoaWcP5sw=
+		JA+d1EaMMG2higToq1ECDfDU9Jg=
 		</data>
 		<key>Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		DMM8LIty/7GB1m1glBsMoVTfG0w=
+		QaNpJKjzYtD2Z//Ejk1U3eUByCk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -69,21 +69,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			STv8wZRwP6WC/epZpvSfnOaowsrlmSFoNx98zMpucEw=
+			K8FObadV7romUy3dVG3vcBoTnG6si4lnxAYtavDHhv4=
 			</data>
 		</dict>
 		<key>Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GDPxWJHUhvUU6tHKQKcR1Sz0r/hif5xPAJgtTDMvAa0=
+			D8bjHi5WmdZXXMni8ek1LkfBtQ6J3Zx+vF9GrXmOZII=
 			</data>
 		</dict>
 		<key>Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LGjM7mFZnvyg0w13LcQF04upJ52Ls1wmdB59cyX0Va4=
+			Lh8aRPFj2BheAXx8Jzu3IYOcYcaec8M3ErI8kRQ6Prw=
 			</data>
 		</dict>
 		<key>Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -97,14 +97,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LGjM7mFZnvyg0w13LcQF04upJ52Ls1wmdB59cyX0Va4=
+			Lh8aRPFj2BheAXx8Jzu3IYOcYcaec8M3ErI8kRQ6Prw=
 			</data>
 		</dict>
 		<key>Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			V4M/WciYTc+t0WQWPbQK1hjIKa8Xmcu9TLqEjZTqp8M=
+			w8vrzVub8Blb+rpKjmveDUvU7IrTXmiQukQqtFcEZ7s=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

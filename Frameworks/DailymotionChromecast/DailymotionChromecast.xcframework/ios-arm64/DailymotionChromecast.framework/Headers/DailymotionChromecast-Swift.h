@@ -298,13 +298,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 #if defined(__OBJC__)
 
-SWIFT_PROTOCOL("_TtP21DailymotionChromecast29DailymotionChromecastDelegate_")
-@protocol DailymotionChromecastDelegate
-- (void)castStarted;
-- (void)castStoppedWithPosition:(double)position;
-@end
-
-
 
 
 
