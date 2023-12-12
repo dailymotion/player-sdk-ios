@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		6NNnvT4IejbxnvrppXIFjpBYlt4=
+		uUWa7TYf5BroTPEtIMVaazqWB7w=
 		</data>
 		<key>Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		css0xvGWRaRUiIzlnfzJSJwFSYY=
+		GuMG5AyJyaydWPNxbGL7tKmZm5g=
 		</data>
 		<key>Modules/DailymotionChromecast.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		6NNnvT4IejbxnvrppXIFjpBYlt4=
+		uUWa7TYf5BroTPEtIMVaazqWB7w=
 		</data>
 		<key>Modules/DailymotionChromecast.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/DailymotionChromecast.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		TV6Lx9QwaZ7U6It4qghqKVvgT10=
+		UJuTbuM9bFR6PmXxvVJtZgfCdyc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -100,7 +100,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FwJk9FTU742qlpCDRQOAVGT1DVg8UiH28EJu6NZ2C+8=
+			cVHqaNWX+Clfh+p6QfXjpeYAaa1VL71Xd7c9qfw447k=
 			</data>
 		</dict>
 		<key>Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -128,14 +128,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fqM4pDCOVWPmw8cU0aTXx4sHcqd94idszTZP1VwMJjQ=
+			kbGgc50FlKL/UNXsN41aGYbQhQezvY1158LnqBYIuBY=
 			</data>
 		</dict>
 		<key>Modules/DailymotionChromecast.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FwJk9FTU742qlpCDRQOAVGT1DVg8UiH28EJu6NZ2C+8=
+			cVHqaNWX+Clfh+p6QfXjpeYAaa1VL71Xd7c9qfw447k=
 			</data>
 		</dict>
 		<key>Modules/DailymotionChromecast.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -163,7 +163,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ETal/7zpaai89ukucsh8ODcEmeO+L3Yj6QaueIgrTtM=
+			uqotAeZOkmikd6QpWLHnVuVZCv4eQ6bla6S+Ysg0sOg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
