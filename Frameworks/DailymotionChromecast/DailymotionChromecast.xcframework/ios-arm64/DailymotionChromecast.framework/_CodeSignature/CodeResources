@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		ORpPpgXut77aSMw37l3NUi8rJ00=
+		4AK/RGTezzr2rTevBXQv8ZR648c=
 		</data>
 		<key>ChromecastPlayerView.nib</key>
 		<data>
-		Ay6Y8aRRLVJ+fbuC1y1t/FYVo/A=
+		6PFliJORELsZVRO4u2DYFw24Td0=
 		</data>
 		<key>Headers/DailymotionChromecast-Swift.h</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		3zM3hFOzH6+uNQJqScM9ht5R9rY=
+		dEDlfqF2OXfckatnYLDCeykYiS4=
 		</data>
 		<key>Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		iMDjoGmOMy5HMDfI6+F9uCnQC+M=
+		CEccKWu3hX2TDgXhLeg8c7Zy0BY=
 		</data>
 		<key>Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -38,11 +38,15 @@
 		</data>
 		<key>Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		QaNpJKjzYtD2Z//Ejk1U3eUByCk=
+		Y50erXYiKxRURXzGwwQk1Bk1SHw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		xt2bIpiK3DdOgZ+CFEwG606gFsk=
+		</data>
+		<key>Retina-Medium.otf</key>
+		<data>
+		yWA12s03+XbyyVFAPQ8FwWwCO84=
 		</data>
 		<key>Retina-Regular.ttf</key>
 		<data>
@@ -55,14 +59,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fDm4ea/bVNqugbjO1MJeZt/Pi6dCJc4p1+chEZHGI3E=
+			PEWMKrQA/LH79SJL1sWnhAVFqym0sR9rs5NsybvwQes=
 			</data>
 		</dict>
 		<key>ChromecastPlayerView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pn6aLgLFBdLbhopUDfoQbIWAG0j70lvSI+tLQEAC2Kw=
+			G4t8oquOA9L0s9zjWlgSxj1deUbOFb5S341eugjkKn4=
 			</data>
 		</dict>
 		<key>Headers/DailymotionChromecast-Swift.h</key>
@@ -76,7 +80,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			D8bjHi5WmdZXXMni8ek1LkfBtQ6J3Zx+vF9GrXmOZII=
+			ZNwzNsObngrYeWiRWj12SN4IySiJ0IR/Htrpj0a0orM=
 			</data>
 		</dict>
 		<key>Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -104,7 +108,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			w8vrzVub8Blb+rpKjmveDUvU7IrTXmiQukQqtFcEZ7s=
+			oOeGYbwFZKnRvgc5EIvm1fF1tH3yzr+/3jlYBr5xgto=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -112,6 +116,13 @@
 			<key>hash2</key>
 			<data>
 			tcYKI++A23OU70MFT2jGLIQSN0NbduSmmntUkiN82FA=
+			</data>
+		</dict>
+		<key>Retina-Medium.otf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vD3h66/YZSqCrAASlH5XFdhpub/pwW+mWwuNCck8vUk=
 			</data>
 		</dict>
 		<key>Retina-Regular.ttf</key>
