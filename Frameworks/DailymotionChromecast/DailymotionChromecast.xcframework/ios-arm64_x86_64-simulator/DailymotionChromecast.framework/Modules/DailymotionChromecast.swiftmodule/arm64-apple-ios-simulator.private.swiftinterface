@@ -31,6 +31,7 @@ public protocol DailymotionChromecastDelegate : AnyObject {
 }
 open class DMChromecast {
   weak public var delegate: (any DailymotionChromecast.DailymotionChromecastDelegate)?
+  public var isCasting: Swift.Bool
   public init(playable: DailymotionChromecast.Playable, containerView: UIKit.UIView, delegate: (any DailymotionChromecast.DailymotionChromecastDelegate)? = nil)
   public static func startChromecast()
   public func updatePlayable(playable: DailymotionChromecast.Playable)
@@ -59,7 +60,10 @@ public struct Playable : Swift.Codable, Swift.Equatable {
   public var titile: Swift.String {
     get
   }
-  public init(chromecastUrl: Swift.String, isLive: Swift.Bool, duration: Swift.Int, currentPosition: Swift.Double, xid: Swift.String, thumbnailUrl: Foundation.URL, titile: Swift.String)
+  public var channelName: Swift.String {
+    get
+  }
+  public init(chromecastUrl: Swift.String, isLive: Swift.Bool, duration: Swift.Int, currentPosition: Swift.Double, xid: Swift.String, thumbnailUrl: Foundation.URL, titile: Swift.String, channelName: Swift.String)
   public func encode(to encoder: any Swift.Encoder) throws
   public init(from decoder: any Swift.Decoder) throws
 }

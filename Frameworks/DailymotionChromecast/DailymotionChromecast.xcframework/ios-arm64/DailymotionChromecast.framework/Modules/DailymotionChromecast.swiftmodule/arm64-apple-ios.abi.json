@@ -766,6 +766,92 @@
             ]
           },
           {
+            "kind": "Var",
+            "name": "isCasting",
+            "printedName": "isCasting",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:21DailymotionChromecast12DMChromecastC9isCastingSbvp",
+            "mangledName": "$s21DailymotionChromecast12DMChromecastC9isCastingSbvp",
+            "moduleName": "DailymotionChromecast",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:21DailymotionChromecast12DMChromecastC9isCastingSbvg",
+                "mangledName": "$s21DailymotionChromecast12DMChromecastC9isCastingSbvg",
+                "moduleName": "DailymotionChromecast",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:21DailymotionChromecast12DMChromecastC9isCastingSbvs",
+                "mangledName": "$s21DailymotionChromecast12DMChromecastC9isCastingSbvs",
+                "moduleName": "DailymotionChromecast",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:21DailymotionChromecast12DMChromecastC9isCastingSbvM",
+                "mangledName": "$s21DailymotionChromecast12DMChromecastC9isCastingSbvM",
+                "moduleName": "DailymotionChromecast",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
             "kind": "Constructor",
             "name": "init",
             "printedName": "init(playable:containerView:delegate:)",
@@ -1316,9 +1402,53 @@
             ]
           },
           {
+            "kind": "Var",
+            "name": "channelName",
+            "printedName": "channelName",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:21DailymotionChromecast8PlayableV11channelNameSSvp",
+            "mangledName": "$s21DailymotionChromecast8PlayableV11channelNameSSvp",
+            "moduleName": "DailymotionChromecast",
+            "declAttributes": [
+              "HasStorage",
+              "SetterAccess",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:21DailymotionChromecast8PlayableV11channelNameSSvg",
+                "mangledName": "$s21DailymotionChromecast8PlayableV11channelNameSSvg",
+                "moduleName": "DailymotionChromecast",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(chromecastUrl:isLive:duration:currentPosition:xid:thumbnailUrl:titile:)",
+            "printedName": "init(chromecastUrl:isLive:duration:currentPosition:xid:thumbnailUrl:titile:channelName:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -1367,11 +1497,17 @@
                 "name": "String",
                 "printedName": "Swift.String",
                 "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:21DailymotionChromecast8PlayableV13chromecastUrl6isLive8duration15currentPosition3xid09thumbnailE06titileACSS_SbSiSdSS10Foundation3URLVSStcfc",
-            "mangledName": "$s21DailymotionChromecast8PlayableV13chromecastUrl6isLive8duration15currentPosition3xid09thumbnailE06titileACSS_SbSiSdSS10Foundation3URLVSStcfc",
+            "usr": "s:21DailymotionChromecast8PlayableV13chromecastUrl6isLive8duration15currentPosition3xid09thumbnailE06titile11channelNameACSS_SbSiSdSS10Foundation3URLVS2Stcfc",
+            "mangledName": "$s21DailymotionChromecast8PlayableV13chromecastUrl6isLive8duration15currentPosition3xid09thumbnailE06titile11channelNameACSS_SbSiSdSS10Foundation3URLVS2Stcfc",
             "moduleName": "DailymotionChromecast",
             "declAttributes": [
               "AccessControl"
@@ -1556,400 +1692,428 @@
   "ConstValues": [
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
+      "kind": "BooleanLiteral",
+      "offset": 737,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
       "kind": "StringLiteral",
-      "offset": 873,
+      "offset": 963,
       "length": 10,
       "value": "\"B88B034A\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
       "kind": "StringLiteral",
-      "offset": 1234,
+      "offset": 1324,
       "length": 72,
       "value": "\"com.dailymotion.dailymotion.cast.engines.ChromecastCaster.KEY_PLAYABLE\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
       "kind": "FloatLiteral",
-      "offset": 1394,
+      "offset": 1484,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
       "kind": "BooleanLiteral",
-      "offset": 1421,
+      "offset": 1511,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
       "kind": "BooleanLiteral",
-      "offset": 1442,
+      "offset": 1532,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
       "kind": "FloatLiteral",
-      "offset": 1536,
+      "offset": 1626,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
       "kind": "StringLiteral",
-      "offset": 1573,
-      "length": 35,
-      "value": "\"Chromecast: ChromecastPlayer Init\""
+      "offset": 1677,
+      "length": 43,
+      "value": "\"Chromecast: ChromecastPlayer Session Init\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
       "kind": "FloatLiteral",
-      "offset": 2038,
+      "offset": 2150,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
       "kind": "BooleanLiteral",
-      "offset": 2052,
+      "offset": 2164,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
       "kind": "StringLiteral",
-      "offset": 2484,
+      "offset": 2596,
       "length": 12,
       "value": "\"Chromecast\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
       "kind": "StringLiteral",
-      "offset": 2630,
-      "length": 117,
-      "value": "\"Chromecast: Casting playable with title : \""
+      "offset": 2756,
+      "length": 105,
+      "value": "\"Casting playable with title : \""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
       "kind": "StringLiteral",
-      "offset": 2691,
+      "offset": 2805,
       "length": 1,
       "value": "\", xid: \""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
       "kind": "StringLiteral",
-      "offset": 2713,
+      "offset": 2827,
       "length": 1,
       "value": "\", url : \""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
       "kind": "StringLiteral",
-      "offset": 2746,
+      "offset": 2860,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
       "kind": "StringLiteral",
-      "offset": 2851,
-      "length": 44,
-      "value": "\"Chromecast: CastPlayable : No Cast Session\""
+      "offset": 2979,
+      "length": 64,
+      "value": "\"Could not cast video \""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
+      "kind": "StringLiteral",
+      "offset": 3016,
+      "length": 1,
+      "value": "\", Cast Session is missing.\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
       "kind": "IntegerLiteral",
-      "offset": 3030,
+      "offset": 3178,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
       "kind": "StringLiteral",
-      "offset": 3183,
+      "offset": 3331,
       "length": 31,
       "value": "\"application\/vnd.apple.mpegurl\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
       "kind": "StringLiteral",
-      "offset": 3541,
-      "length": 41,
-      "value": "\"Chromecast: Remote Media Client is null\""
+      "offset": 3703,
+      "length": 69,
+      "value": "\"Could not cast video \""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
       "kind": "StringLiteral",
-      "offset": 3613,
+      "offset": 3740,
+      "length": 1,
+      "value": "\",Remote Media Client is missing\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
+      "kind": "StringLiteral",
+      "offset": 3817,
       "length": 42,
       "value": "\"Chromecast: CastPlayable : Loading Media\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
       "kind": "BooleanLiteral",
-      "offset": 3839,
+      "offset": 4043,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
       "kind": "BooleanLiteral",
-      "offset": 3870,
+      "offset": 4074,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
       "kind": "StringLiteral",
-      "offset": 4170,
+      "offset": 4388,
       "length": 72,
       "value": "\"Chromecast: ChromecastPlayer startCastingCurrentPlayable : No playable\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
       "kind": "StringLiteral",
-      "offset": 4273,
+      "offset": 4505,
       "length": 58,
       "value": "\"Chromecast: ChromecastPlayer startCastingCurrentPlayable\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
       "kind": "IntegerLiteral",
-      "offset": 4901,
+      "offset": 4969,
       "length": 3,
       "value": "240"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
       "kind": "IntegerLiteral",
-      "offset": 4914,
+      "offset": 4982,
       "length": 3,
       "value": "240"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
       "kind": "IntegerLiteral",
-      "offset": 5786,
+      "offset": 5759,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
       "kind": "IntegerLiteral",
-      "offset": 5888,
+      "offset": 5861,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
       "kind": "IntegerLiteral",
-      "offset": 5905,
+      "offset": 5878,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
       "kind": "StringLiteral",
-      "offset": 7651,
-      "length": 69,
-      "value": "\"Chromecast: ChromecastPlayer didFailToStart GCKCastSession \""
+      "offset": 7638,
+      "length": 57,
+      "value": "\"ChromecastPlayer didFailToStart GCKCastSession \""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
       "kind": "StringLiteral",
-      "offset": 7719,
+      "offset": 7694,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
       "kind": "StringLiteral",
-      "offset": 7928,
-      "length": 65,
-      "value": "\"Chromecast: ChromecastPlayer didFailToStart GCKSession \""
+      "offset": 7917,
+      "length": 53,
+      "value": "\"ChromecastPlayer didFailToStart GCKSession \""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
       "kind": "StringLiteral",
-      "offset": 7992,
+      "offset": 7969,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
       "kind": "StringLiteral",
-      "offset": 8285,
+      "offset": 8276,
+      "length": 34,
+      "value": "\"ChromecastPlayer started session\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
+      "kind": "StringLiteral",
+      "offset": 8523,
+      "length": 34,
+      "value": "\"ChromecastPlayer willEnd session\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
+      "kind": "StringLiteral",
+      "offset": 8882,
+      "length": 33,
+      "value": "\"ChromecastPlayer didEnd session\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
+      "kind": "StringLiteral",
+      "offset": 9138,
+      "length": 20,
+      "value": "\"requestDidComplete\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
+      "kind": "StringLiteral",
+      "offset": 9280,
       "length": 46,
-      "value": "\"Chromecast: ChromecastPlayer started session\""
+      "value": "\"requestabortReason : \""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
       "kind": "StringLiteral",
-      "offset": 8530,
-      "length": 46,
-      "value": "\"Chromecast: ChromecastPlayer willEnd session\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
-      "kind": "StringLiteral",
-      "offset": 8887,
-      "length": 45,
-      "value": "\"Chromecast: ChromecastPlayer didEnd session\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
-      "kind": "StringLiteral",
-      "offset": 9141,
-      "length": 32,
-      "value": "\"Chromecast: requestDidComplete\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
-      "kind": "StringLiteral",
-      "offset": 9281,
-      "length": 58,
-      "value": "\"Chromecast: requestabortReason : \""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
-      "kind": "StringLiteral",
-      "offset": 9338,
+      "offset": 9325,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
       "kind": "StringLiteral",
-      "offset": 9502,
-      "length": 60,
-      "value": "\"Chromecast: requestdidFailWithError : \""
+      "offset": 9503,
+      "length": 48,
+      "value": "\"requestdidFailWithError : \""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
       "kind": "StringLiteral",
-      "offset": 9561,
+      "offset": 9550,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
       "kind": "StringLiteral",
-      "offset": 9750,
+      "offset": 9753,
       "length": 35,
       "value": "\"ChromecastCCLogger : \""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerSession.swift",
       "kind": "StringLiteral",
-      "offset": 9782,
+      "offset": 9785,
       "length": 2,
       "value": "\"  \""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Logs\/DMLog.swift",
       "kind": "StringLiteral",
-      "offset": 241,
+      "offset": 320,
+      "length": 15,
+      "value": "\"HH:mm:ss.SSS \""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Logs\/DMLog.swift",
+      "kind": "StringLiteral",
+      "offset": 412,
       "length": 7,
       "value": "\"Debug\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Logs\/DMLog.swift",
       "kind": "StringLiteral",
-      "offset": 280,
+      "offset": 451,
       "length": 6,
       "value": "\"Info\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Logs\/DMLog.swift",
       "kind": "StringLiteral",
-      "offset": 319,
+      "offset": 490,
       "length": 13,
       "value": "\"Error❗️\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Logs\/DMLog.swift",
       "kind": "StringLiteral",
-      "offset": 367,
+      "offset": 538,
       "length": 9,
       "value": "\"Default\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Logs\/DMLog.swift",
       "kind": "StringLiteral",
-      "offset": 404,
-      "length": 10,
-      "value": "\"DMLogIMA\""
+      "offset": 575,
+      "length": 17,
+      "value": "\"DMLogChromecast\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Logs\/DMLog.swift",
       "kind": "StringLiteral",
-      "offset": 444,
+      "offset": 622,
       "length": 10,
       "value": "\"INTERNAL\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Logs\/DMLog.swift",
       "kind": "StringLiteral",
-      "offset": 482,
-      "length": 10,
-      "value": "\"[%@]: %@\""
+      "offset": 660,
+      "length": 16,
+      "value": "\"%@[%@][%@]: %@\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Logs\/DMLog.swift",
       "kind": "StringLiteral",
-      "offset": 528,
-      "length": 14,
-      "value": "\"[%@][%@]: %@\""
+      "offset": 712,
+      "length": 20,
+      "value": "\"%@[%@][%@][%@]: %@\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Logs\/DMLog.swift",
       "kind": "StringLiteral",
-      "offset": 678,
+      "offset": 897,
       "length": 38,
       "value": "\"com.dailymotion.DailymotionPlayerSDK\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Logs\/DMLog.swift",
       "kind": "BooleanLiteral",
-      "offset": 1261,
+      "offset": 1480,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Logs\/DMLog.swift",
       "kind": "BooleanLiteral",
-      "offset": 1475,
+      "offset": 1763,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Logs\/DMLog.swift",
       "kind": "StringLiteral",
-      "offset": 1705,
+      "offset": 2046,
       "length": 12,
       "value": "\"%{public}s\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Logs\/DMLog.swift",
       "kind": "BooleanLiteral",
-      "offset": 2138,
+      "offset": 2479,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Logs\/DMLog.swift",
       "kind": "BooleanLiteral",
-      "offset": 2440,
+      "offset": 2781,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Logs\/DMLog.swift",
       "kind": "BooleanLiteral",
-      "offset": 2746,
+      "offset": 3087,
       "length": 5,
       "value": "false"
     },
@@ -2102,87 +2266,101 @@
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/DMChromecast.swift",
-      "kind": "BooleanLiteral",
-      "offset": 252,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/DMChromecast.swift",
       "kind": "IntegerLiteral",
-      "offset": 730,
+      "offset": 633,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/DMChromecast.swift",
       "kind": "BooleanLiteral",
-      "offset": 1142,
+      "offset": 764,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/DMChromecast.swift",
       "kind": "BooleanLiteral",
-      "offset": 2233,
+      "offset": 1076,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/DMChromecast.swift",
       "kind": "BooleanLiteral",
-      "offset": 2490,
+      "offset": 2167,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/DMChromecast.swift",
       "kind": "BooleanLiteral",
-      "offset": 2734,
+      "offset": 2424,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/DMChromecast.swift",
       "kind": "BooleanLiteral",
-      "offset": 2929,
+      "offset": 2668,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/DMChromecast.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2863,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/DMChromecast.swift",
       "kind": "BooleanLiteral",
-      "offset": 3585,
+      "offset": 3519,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/DMChromecast.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3991,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/DMChromecast.swift",
       "kind": "IntegerLiteral",
-      "offset": 4503,
+      "offset": 4463,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/DMChromecast.swift",
       "kind": "IntegerLiteral",
-      "offset": 4589,
+      "offset": 4549,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/DMChromecast.swift",
       "kind": "IntegerLiteral",
-      "offset": 4677,
+      "offset": 4637,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/DMChromecast.swift",
       "kind": "IntegerLiteral",
-      "offset": 4767,
+      "offset": 4727,
       "length": 1,
       "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/DMChromecast.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4960,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerView\/ChromecastPlayerView.swift",
@@ -2726,56 +2904,21 @@
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Utils\/Utils.swift",
       "kind": "StringLiteral",
-      "offset": 2448,
-      "length": 22,
-      "value": "\"IMA : Font not found\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Utils\/Utils.swift",
-      "kind": "StringLiteral",
-      "offset": 2596,
-      "length": 53,
-      "value": "\"IMA : could not get reference to font data provider\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Utils\/Utils.swift",
-      "kind": "StringLiteral",
-      "offset": 2749,
-      "length": 44,
-      "value": "\"IMA : could not get font from coregraphics\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Utils\/Utils.swift",
-      "kind": "StringLiteral",
-      "offset": 2940,
-      "length": 57,
-      "value": "\"IMA : error registering font: \""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Utils\/Utils.swift",
-      "kind": "StringLiteral",
-      "offset": 2996,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Utils\/Utils.swift",
-      "kind": "StringLiteral",
-      "offset": 3348,
+      "offset": 3060,
       "length": 78,
       "value": "\"Error converting \""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Utils\/Utils.swift",
       "kind": "StringLiteral",
-      "offset": 3373,
+      "offset": 3085,
       "length": 2,
       "value": "\" to dictionary, error: \""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Utils\/Utils.swift",
       "kind": "StringLiteral",
-      "offset": 3425,
+      "offset": 3137,
       "length": 2,
       "value": "\"\""
     },
