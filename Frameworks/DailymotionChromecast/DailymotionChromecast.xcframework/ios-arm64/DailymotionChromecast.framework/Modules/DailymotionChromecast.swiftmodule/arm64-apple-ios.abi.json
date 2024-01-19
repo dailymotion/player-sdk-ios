@@ -2367,7 +2367,7 @@
       "kind": "IntegerLiteral",
       "offset": 633,
       "length": 2,
-      "value": "12"
+      "value": "14"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionChromecast\/DailymotionChromecast\/Sources\/Chromecast\/ChromecastPlayerView\/ChromecastPlayerView.swift",
