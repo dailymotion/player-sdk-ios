@@ -27,7 +27,7 @@ public enum ChromecastSessionEvent {
 }
 public protocol DailymotionChromecastDelegate : AnyObject {
   func castStarted(playable: DailymotionChromecast.Playable?)
-  func castStopped(position: Swift.Double, playable: DailymotionChromecast.Playable?)
+  func castStopped(position: Swift.Double, playable: DailymotionChromecast.Playable?, failed: Swift.Bool)
 }
 open class DMChromecast {
   weak public var delegate: (any DailymotionChromecast.DailymotionChromecastDelegate)?

@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/DailymotionPlayerSDK-Swift.h</key>
 		<data>
-		t93KVFuB1Nfc5FgkgrnHW03vEUk=
+		zFzqECIHrbiKaW7xvnG37dJxNjQ=
 		</data>
 		<key>Headers/DailymotionPlayerSDK.h</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		naI1XPRbautBi0PHeOeaSzS7meI=
+		OXBHHaSALSB/bhqfnftwE90vKZM=
 		</data>
 		<key>Modules/DailymotionPlayerSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		neXIGGVgVTgg/c0QgGpHy9p03bg=
+		K4Zv5jJ5KZZb4/iiwUFgH4GO6QQ=
 		</data>
 		<key>Modules/DailymotionPlayerSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -42,11 +42,11 @@
 		</data>
 		<key>Modules/DailymotionPlayerSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		UltGP9vr4tOcB70uzG1EZMTz8mQ=
+		REzOj4trGUOZ+Y9KN4r31Zwe2R0=
 		</data>
 		<key>Modules/DailymotionPlayerSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		neXIGGVgVTgg/c0QgGpHy9p03bg=
+		K4Zv5jJ5KZZb4/iiwUFgH4GO6QQ=
 		</data>
 		<key>Modules/DailymotionPlayerSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/DailymotionPlayerSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		9gMQfIA9IvWYiKeUHt4jimaVZRo=
+		8fVX64hXLTg07OyQ+rsrcM8H4e8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -89,7 +89,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wPCdrRBAZrtme7RZ+zEdXYysFchW1shSOGophcp8QvI=
+			5yIkA/E6SWUmIEz3KMe9qIF0+LuGY6qZpg6ee/djxR8=
 			</data>
 		</dict>
 		<key>Headers/DailymotionPlayerSDK.h</key>
@@ -103,7 +103,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dFY5pqNgRWlqUviQ8ToyaROp9UIjzRjRHIe/12kbU68=
+			7JlGGpe2CRSGq6cdQh9Uzoo9ziSDZAB+bmD9A0TvWTY=
 			</data>
 		</dict>
 		<key>Modules/DailymotionPlayerSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -131,14 +131,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vaDvSVu1eorT/eAXnT19Tszxx6+qx4Buth30FCatLVw=
+			GyFWdLAebdbNPmNG1OlKeSCWhyXajHo8ct44wbf6ckM=
 			</data>
 		</dict>
 		<key>Modules/DailymotionPlayerSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dFY5pqNgRWlqUviQ8ToyaROp9UIjzRjRHIe/12kbU68=
+			7JlGGpe2CRSGq6cdQh9Uzoo9ziSDZAB+bmD9A0TvWTY=
 			</data>
 		</dict>
 		<key>Modules/DailymotionPlayerSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -166,7 +166,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			O1pK2yUD4rP8R3Wp4+VCp/p034k/geeiaDnltR0vrQc=
+			H4y4MO+rawNpeX6FYYWKRUbFAgO/41PR/XJVbOkGF8k=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
