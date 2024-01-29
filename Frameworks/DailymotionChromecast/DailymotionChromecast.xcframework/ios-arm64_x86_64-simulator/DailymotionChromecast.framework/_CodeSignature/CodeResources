@@ -18,7 +18,7 @@
 		</data>
 		<key>ChromecastPlayerView.nib</key>
 		<data>
-		trdLO6uQPJ9QUNJJnIvbXvkc8FE=
+		HMF21w3hAiF4gJkhfEV5NgX8/wk=
 		</data>
 		<key>DailySans-Bulky.ttf</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		RWjyxqnw1lsuSUo6VhZ9ly0RfWU=
+		dxqiQco3f0qwRebUc2sQuR4slbo=
 		</data>
 		<key>Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		mLu1PZUJLgTJxWO7v68wwA5kBQk=
+		lfu9eo2+IrKiES20S0t8PG5fA/g=
 		</data>
 		<key>Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -46,19 +46,19 @@
 		</data>
 		<key>Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		mLu1PZUJLgTJxWO7v68wwA5kBQk=
+		lfu9eo2+IrKiES20S0t8PG5fA/g=
 		</data>
 		<key>Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		8aQp+orC/1JohEWE4yGSdmwkUCE=
+		Nuf+X/rC291zlCXuY6BpFyfolEM=
 		</data>
 		<key>Modules/DailymotionChromecast.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		RWjyxqnw1lsuSUo6VhZ9ly0RfWU=
+		dxqiQco3f0qwRebUc2sQuR4slbo=
 		</data>
 		<key>Modules/DailymotionChromecast.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		m/+OPCJj2VrDE0gmK24UR5oRTU0=
+		jj6tdUyQNv+GrjTwSD4yeP8s0Yc=
 		</data>
 		<key>Modules/DailymotionChromecast.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -66,11 +66,11 @@
 		</data>
 		<key>Modules/DailymotionChromecast.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		m/+OPCJj2VrDE0gmK24UR5oRTU0=
+		jj6tdUyQNv+GrjTwSD4yeP8s0Yc=
 		</data>
 		<key>Modules/DailymotionChromecast.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		5qsAGshh7mVclm0l0feK2SEqnfA=
+		WyX3eNBOLg35IobsAXyt7mZZa7c=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -112,7 +112,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cd6AUZ4LXnYYEb195zpJHLzOoQ0c35q1G3Nq/3s3MCM=
+			KDW9L8yT01c7aLBoKiHXVfTAoBe6T5EIxYAau6DfIZQ=
 			</data>
 		</dict>
 		<key>DailySans-Bulky.ttf</key>
@@ -133,14 +133,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+06+K1pgXyPt8mIoVqDgMq9gVAhEQNJFHrbTTt4tc24=
+			l6xoaLmbhZIKy/Y8rv3Exl7DJ8+xiBfZgS+Tvy4Iutg=
 			</data>
 		</dict>
 		<key>Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SkJowHT6SGOFY3i5+EOZa4fMWR0xAYxPXFRILmtFWBI=
+			ijO+omgmQdCpmGnrpZzJk/1x34H1uo6V7TujHWE4ADY=
 			</data>
 		</dict>
 		<key>Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -154,28 +154,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SkJowHT6SGOFY3i5+EOZa4fMWR0xAYxPXFRILmtFWBI=
+			ijO+omgmQdCpmGnrpZzJk/1x34H1uo6V7TujHWE4ADY=
 			</data>
 		</dict>
 		<key>Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			388AyeNtHhEYfw6QdBulEdRbVLNfhFSaglZI6E7duyU=
+			U/j4UpyGnEnmip4ectdhbuJZzO62V1Iierplgaa7FhA=
 			</data>
 		</dict>
 		<key>Modules/DailymotionChromecast.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+06+K1pgXyPt8mIoVqDgMq9gVAhEQNJFHrbTTt4tc24=
+			l6xoaLmbhZIKy/Y8rv3Exl7DJ8+xiBfZgS+Tvy4Iutg=
 			</data>
 		</dict>
 		<key>Modules/DailymotionChromecast.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ez3dQmFtMw783Vd/iEfJh4+3IO2HPh9vtohwlidb2y4=
+			lyqgp3kqndL98NHRfrTTzKn0zlFkW0WZKq82wo2FM3o=
 			</data>
 		</dict>
 		<key>Modules/DailymotionChromecast.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -189,14 +189,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ez3dQmFtMw783Vd/iEfJh4+3IO2HPh9vtohwlidb2y4=
+			lyqgp3kqndL98NHRfrTTzKn0zlFkW0WZKq82wo2FM3o=
 			</data>
 		</dict>
 		<key>Modules/DailymotionChromecast.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			y7Sj7HBdPubyqw/RsrU23nXSUrhW4ogGDoBnAk0veuM=
+			V1MSnJMa4gMhI25N8UYuHWC/rtQqmfTq/NCyKB8qRfY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -15,19 +15,14 @@ import _StringProcessing
 import _SwiftConcurrencyShims
 import os.log
 import os
-public enum ChromecastSessionEvent {
-  case didEndPlayback(playable: DailymotionChromecast.Playable?)
-  case didFail(error: any Swift.Error)
-  case didInitialize
-  case didFailInitialize(error: any Swift.Error)
-  case didStartPlayback
-  case didUpdatePosition(position: Foundation.TimeInterval)
-  case didUpdateDuration(duration: Foundation.TimeInterval)
-  case didPausePlayback
+public enum ChromecastError : Swift.Error {
+  case underlyingCastError(error: any Swift.Error)
+  case castSessionMissing
+  case remoteMediaClientMissing
 }
 public protocol DailymotionChromecastDelegate : AnyObject {
   func castStarted(playable: DailymotionChromecast.Playable?)
-  func castStopped(position: Swift.Double, playable: DailymotionChromecast.Playable?, failed: Swift.Bool)
+  func castStopped(position: Swift.Double, playable: DailymotionChromecast.Playable?, error: DailymotionChromecast.ChromecastError?)
 }
 open class DMChromecast {
   weak public var delegate: (any DailymotionChromecast.DailymotionChromecastDelegate)?
