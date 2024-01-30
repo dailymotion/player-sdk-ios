@@ -17244,189 +17244,203 @@
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/ChromecastBridge\/ChromecastManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 5061,
+      "offset": 5062,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/ChromecastBridge\/ChromecastManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 5068,
+      "offset": 5069,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/ChromecastBridge\/ChromecastManager.swift",
       "kind": "StringLiteral",
-      "offset": 5219,
+      "offset": 5220,
       "length": 10,
       "value": "\"Untitled\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/ChromecastBridge\/ChromecastManager.swift",
       "kind": "StringLiteral",
-      "offset": 5274,
+      "offset": 5275,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/ChromecastBridge\/ChromecastManager.swift",
       "kind": "StringLiteral",
-      "offset": 5304,
+      "offset": 5305,
       "length": 35,
       "value": "\"Playable completed for chromecast\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/ChromecastBridge\/ChromecastManager.swift",
       "kind": "StringLiteral",
-      "offset": 5443,
+      "offset": 5444,
       "length": 20,
       "value": "\"Chromecast Error: \""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/ChromecastBridge\/ChromecastManager.swift",
       "kind": "StringLiteral",
-      "offset": 5604,
+      "offset": 5605,
       "length": 24,
       "value": "\"NSLocalizedDescription\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/ChromecastBridge\/ChromecastManager.swift",
       "kind": "StringLiteral",
-      "offset": 5720,
+      "offset": 5721,
       "length": 16,
       "value": "\"Casting failed\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/ChromecastBridge\/ChromecastManager.swift",
       "kind": "StringLiteral",
-      "offset": 5770,
+      "offset": 5771,
       "length": 11,
       "value": "\" | Code :\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/ChromecastBridge\/ChromecastManager.swift",
       "kind": "StringLiteral",
-      "offset": 5827,
+      "offset": 5828,
       "length": 25,
       "value": "\"gck_detailed_error_code\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/ChromecastBridge\/ChromecastManager.swift",
       "kind": "StringLiteral",
-      "offset": 5891,
+      "offset": 5892,
       "length": 3,
       "value": "\"D\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/ChromecastBridge\/ChromecastManager.swift",
       "kind": "StringLiteral",
-      "offset": 6069,
-      "length": 46,
-      "value": "\"Casting failed because of Cast Session error\""
+      "offset": 6070,
+      "length": 54,
+      "value": "\"Casting failed because of Cast Session missing error\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/ChromecastBridge\/ChromecastManager.swift",
       "kind": "StringLiteral",
-      "offset": 6177,
-      "length": 46,
-      "value": "\"Casting failed because of Media Client error\""
+      "offset": 6186,
+      "length": 54,
+      "value": "\"Casting failed because of Media Client missing error\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/ChromecastBridge\/ChromecastManager.swift",
       "kind": "StringLiteral",
-      "offset": 6271,
-      "length": 33,
-      "value": "\"Chromecast Error: Unknown error\""
+      "offset": 6296,
+      "length": 54,
+      "value": "\"Casting failed because of Media status missing error\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/ChromecastBridge\/ChromecastManager.swift",
       "kind": "StringLiteral",
-      "offset": 6347,
+      "offset": 6409,
+      "length": 59,
+      "value": "\"Casting failed because of Media metadata is missing error\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/ChromecastBridge\/ChromecastManager.swift",
+      "kind": "StringLiteral",
+      "offset": 6516,
+      "length": 15,
+      "value": "\"Unknown error\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/ChromecastBridge\/ChromecastManager.swift",
+      "kind": "StringLiteral",
+      "offset": 6574,
       "length": 32,
       "value": "\"❗️\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/ChromecastBridge\/ChromecastManager.swift",
       "kind": "StringLiteral",
-      "offset": 6372,
+      "offset": 6599,
       "length": 6,
       "value": "\"❗️\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/ChromecastBridge\/ChromecastManager.swift",
       "kind": "StringLiteral",
-      "offset": 6541,
+      "offset": 6811,
       "length": 25,
       "value": "\"Chromecast cast started\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/ChromecastBridge\/ChromecastManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 6605,
+      "offset": 6875,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/ChromecastBridge\/ChromecastManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 6642,
+      "offset": 6912,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/ChromecastBridge\/ChromecastManager.swift",
       "kind": "StringLiteral",
-      "offset": 6885,
+      "offset": 7172,
       "length": 137,
       "value": "\"Chromecast cast stopped at position: \""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/ChromecastBridge\/ChromecastManager.swift",
       "kind": "StringLiteral",
-      "offset": 6934,
+      "offset": 7221,
       "length": 1,
       "value": "\", with video: \""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/ChromecastBridge\/ChromecastManager.swift",
       "kind": "StringLiteral",
-      "offset": 6967,
+      "offset": 7254,
       "length": 5,
       "value": "\"nil\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/ChromecastBridge\/ChromecastManager.swift",
       "kind": "StringLiteral",
-      "offset": 6973,
+      "offset": 7260,
       "length": 1,
       "value": "\", failed: \""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/ChromecastBridge\/ChromecastManager.swift",
       "kind": "StringLiteral",
-      "offset": 7016,
+      "offset": 7303,
       "length": 4,
       "value": "\"NO\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/ChromecastBridge\/ChromecastManager.swift",
       "kind": "StringLiteral",
-      "offset": 7021,
+      "offset": 7308,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/ChromecastBridge\/ChromecastManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 7108,
+      "offset": 7395,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/ChromecastBridge\/ChromecastManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 7354,
+      "offset": 7641,
       "length": 1,
       "value": "3"
     },

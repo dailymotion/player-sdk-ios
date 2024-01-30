@@ -19,10 +19,12 @@ public enum ChromecastError : Swift.Error {
   case underlyingCastError(error: any Swift.Error)
   case castSessionMissing
   case remoteMediaClientMissing
+  case mediaStatusMissing
+  case remoteMetadataMissing
 }
 public protocol DailymotionChromecastDelegate : AnyObject {
   func castStarted(playable: DailymotionChromecast.Playable?)
-  func castStopped(position: Swift.Double, playable: DailymotionChromecast.Playable?, error: DailymotionChromecast.ChromecastError?)
+  func castStopped(position: Swift.Double, playable: DailymotionChromecast.Playable?, suspended: Swift.Bool, error: DailymotionChromecast.ChromecastError?)
 }
 open class DMChromecast {
   weak public var delegate: (any DailymotionChromecast.DailymotionChromecastDelegate)?
