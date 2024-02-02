@@ -27,6 +27,7 @@ public protocol DailymotionChromecastDelegate : AnyObject {
   func castStopped(position: Swift.Double, playable: DailymotionChromecast.Playable?, suspended: Swift.Bool, error: DailymotionChromecast.ChromecastError?)
 }
 open class DMChromecast {
+  public static let sdkVersion: Swift.String
   weak public var delegate: (any DailymotionChromecast.DailymotionChromecastDelegate)?
   public var isCasting: Swift.Bool
   public init(playable: DailymotionChromecast.Playable, containerView: UIKit.UIView, delegate: (any DailymotionChromecast.DailymotionChromecastDelegate)? = nil)

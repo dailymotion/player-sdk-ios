@@ -14,15 +14,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Ck+EC09dFxBAI2pQIfF3ROxWpdk=
+		SwWjMEsRDWqKLoEeOLPN2toy5E4=
 		</data>
 		<key>Modules/DailymotionAdvertisingServices.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		J69/UItqSP0qbJAOMkaHRPTa74w=
+		qClTry4PL7T2FPqBGmtWInNs3vM=
 		</data>
 		<key>Modules/DailymotionAdvertisingServices.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		B+apXgiHKvY+wdcUPVpOk43SR6s=
+		zC+/9eQP+Wc7TY2jFTHRzWqgmAM=
 		</data>
 		<key>Modules/DailymotionAdvertisingServices.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/DailymotionAdvertisingServices.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		B+apXgiHKvY+wdcUPVpOk43SR6s=
+		zC+/9eQP+Wc7TY2jFTHRzWqgmAM=
 		</data>
 		<key>Modules/DailymotionAdvertisingServices.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		/JNBAukrNiXpoYvbYoSCtmV/Jnw=
+		3demU0HGEQUGjeLFmVNg6Bgk7bU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -86,14 +86,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zTAmdzyYE6zUaK68F9jqsavtxu1GsVLmYI0+A31e36Y=
+			ZpV8A56YMUYVQJIT5uzOOUXtV/nzhZHREoEi97NSLxE=
 			</data>
 		</dict>
 		<key>Modules/DailymotionAdvertisingServices.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			omkkUcZzsiETOChCBOLphd2uSuBuqydfAyzLUfFToyg=
+			sJqABYOkrMXmfnOAY/p+mfhQkGpBE1qIr6Q9gdg27c0=
 			</data>
 		</dict>
 		<key>Modules/DailymotionAdvertisingServices.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -107,14 +107,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			omkkUcZzsiETOChCBOLphd2uSuBuqydfAyzLUfFToyg=
+			sJqABYOkrMXmfnOAY/p+mfhQkGpBE1qIr6Q9gdg27c0=
 			</data>
 		</dict>
 		<key>Modules/DailymotionAdvertisingServices.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+SqaAsuWx/aJzXwwqfsB26YmTo9RtGAdMHoOlg2IWTs=
+			Y9U8NigdDqcksMohWDjBEAjjZMgV2PpnvNwwQVy9k6Y=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
