@@ -18,7 +18,7 @@
 		</data>
 		<key>ChromecastPlayerView.nib</key>
 		<data>
-		trdLO6uQPJ9QUNJJnIvbXvkc8FE=
+		lMHV1q0W9V4n9ChessFDXib/kOg=
 		</data>
 		<key>DailySans-Bulky.ttf</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		sdsX42l4hRG4opWRdWtht9zY71I=
+		Dnm7VH04tZUegdLJZEV4nJpJyFY=
 		</data>
 		<key>Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		7ZiFL1vPI2Nx4MHxl2bqiGT5dlU=
+		2TQ/kJdFFvOn0xOPDbLhUyX11qA=
 		</data>
 		<key>Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		7ZiFL1vPI2Nx4MHxl2bqiGT5dlU=
+		2TQ/kJdFFvOn0xOPDbLhUyX11qA=
 		</data>
 		<key>Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		WGLIwGGf6QvKfQmPj5YhGxF9Dww=
+		Lm8CFrcZSHSvGpEPEuTNEYSEdsk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -92,7 +92,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cd6AUZ4LXnYYEb195zpJHLzOoQ0c35q1G3Nq/3s3MCM=
+			+NlgLfllDUapSqWQCp3SNHcl+nGQEpt/nEHX5SPcgZ4=
 			</data>
 		</dict>
 		<key>DailySans-Bulky.ttf</key>
@@ -113,14 +113,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			W9/FCe0W7BUJ0D4+H2823rIaDC/b1I+l8Uy1f9T1ghs=
+			+d8VrSOhLfaCoQFDfBS11a/ZL43EKw7I6pNZlJxnJ2g=
 			</data>
 		</dict>
 		<key>Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			U0yiyOt/nhmG8OhozAHk5lcRvgNs+hUJ+RS6dVMnpKs=
+			kkY9kPTQyhWPvEWumxzMf2Nuju2hOaPFV7D1bOXYydk=
 			</data>
 		</dict>
 		<key>Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -134,14 +134,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			U0yiyOt/nhmG8OhozAHk5lcRvgNs+hUJ+RS6dVMnpKs=
+			kkY9kPTQyhWPvEWumxzMf2Nuju2hOaPFV7D1bOXYydk=
 			</data>
 		</dict>
 		<key>Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JKps8I2qH7bCZHLhhiZikNh18/LugrrcYtsN5scJZE0=
+			OHQoLuVdp+QL3Ry86AfMYFjgIN/a20L5D/xbvcG/2g8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
