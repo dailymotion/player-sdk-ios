@@ -10,7 +10,7 @@
 		</data>
 		<key>ios-arm64/DailymotionAdvertisingServices.framework/DailymotionAdvertisingServices</key>
 		<data>
-		R3lL0LSq6ljqecMXgi8MYZkwoxY=
+		SMfDXlpv9rqT57Q4m97dUI9TtP4=
 		</data>
 		<key>ios-arm64/DailymotionAdvertisingServices.framework/Headers/DailymotionAdvertisingServices-Swift.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>ios-arm64/DailymotionAdvertisingServices.framework/Info.plist</key>
 		<data>
-		yMlUca6cT9aJ6u23kd5P2PUeOpM=
+		SwWjMEsRDWqKLoEeOLPN2toy5E4=
 		</data>
 		<key>ios-arm64/DailymotionAdvertisingServices.framework/Modules/DailymotionAdvertisingServices.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -63,7 +63,7 @@
 		</data>
 		<key>ios-arm64/DailymotionAdvertisingServices.framework/_CodeSignature/CodeResources</key>
 		<data>
-		03liLpZKwDnRNzDOZsGOjr7chJ0=
+		PjHHhReSIyFmEIeqyiRcWi+yXCY=
 		</data>
 		<key>ios-arm64/DailymotionAdvertisingServices.framework/omsdk-v1.js</key>
 		<data>
@@ -87,11 +87,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			R3lL0LSq6ljqecMXgi8MYZkwoxY=
+			SMfDXlpv9rqT57Q4m97dUI9TtP4=
 			</data>
 			<key>hash2</key>
 			<data>
-			anBgczjHg/vQqvHdtEYW3FXIOi/W5wrAsSkqAXOaSeg=
+			vtpdaBxNB4nywyx/L0Oe4sPf6UmDHVa+jme84WZeYeM=
 			</data>
 		</dict>
 		<key>ios-arm64/DailymotionAdvertisingServices.framework/Headers/DailymotionAdvertisingServices-Swift.h</key>
@@ -109,11 +109,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yMlUca6cT9aJ6u23kd5P2PUeOpM=
+			SwWjMEsRDWqKLoEeOLPN2toy5E4=
 			</data>
 			<key>hash2</key>
 			<data>
-			Y56xXKyeeSnd/al0PRFwZxy/X0m+u1lixGxkY+gw10s=
+			3w3jh0I9DDyIESmXPzD0N/QsLRKRRzXzbgWthUzJFOk=
 			</data>
 		</dict>
 		<key>ios-arm64/DailymotionAdvertisingServices.framework/Modules/DailymotionAdvertisingServices.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -221,11 +221,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			03liLpZKwDnRNzDOZsGOjr7chJ0=
+			PjHHhReSIyFmEIeqyiRcWi+yXCY=
 			</data>
 			<key>hash2</key>
 			<data>
-			S3021ZMYeuTTt9ueYu5PfT8P+it/QtT3yczWYyP5CHU=
+			F7in8yS6c9+iUJU4HCPrDtSrQ4on9bU2PaTol89vdag=
 			</data>
 		</dict>
 		<key>ios-arm64/DailymotionAdvertisingServices.framework/omsdk-v1.js</key>
