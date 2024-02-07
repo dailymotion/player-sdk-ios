@@ -22,11 +22,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		YArCzMTuG3+2F5vgcSUB57X21hA=
+		IE+nWKyDmS+sNPEXFNF6T2r7ETw=
 		</data>
 		<key>Modules/DailymotionPlayerSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		auuGXJNqIdpoM7qOqFzNuPiHIFE=
+		mhumsWMUN9RnIgEq+GxfE5b7I4w=
 		</data>
 		<key>Modules/DailymotionPlayerSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/DailymotionPlayerSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		LCPB+I83/x5nok0Q7OOvmedIDaU=
+		+AcdrviH2zCf1e1Hp6lKnyyHcZ4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -83,7 +83,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vany4RU9LT1jdc75umTUjoFl+PZnJvxzeg/7/Vl7bV8=
+			7N9ZMcF3IYVKd0UhX436JbeGTvL3gIKqZSSmelj0Mbw=
 			</data>
 		</dict>
 		<key>Modules/DailymotionPlayerSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -111,7 +111,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AFlQ3Slq1nbcHSDVauDlrV2VRWOtnfxwNFPDb5Rc5u0=
+			xj81HNrW7GkWqPf7zPX3YAm65Y/eCnl6UfiiByugNqM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -45,6 +45,9 @@ public struct Playable : Swift.Codable, Swift.Equatable {
   public var isLive: Swift.Bool {
     get
   }
+  public var isVideo: Swift.Bool {
+    get
+  }
   public var duration: Swift.Int {
     get
   }
@@ -55,13 +58,16 @@ public struct Playable : Swift.Codable, Swift.Equatable {
   public var thumbnailUrl: Foundation.URL {
     get
   }
+  public var thumbnailSize: CoreFoundation.CGSize {
+    get
+  }
   public var titile: Swift.String {
     get
   }
   public var channelName: Swift.String {
     get
   }
-  public init(chromecastUrl: Swift.String, isLive: Swift.Bool, duration: Swift.Int, currentPosition: Swift.Double, xid: Swift.String, thumbnailUrl: Foundation.URL, titile: Swift.String, channelName: Swift.String)
+  public init(chromecastUrl: Swift.String, isLive: Swift.Bool, isVideo: Swift.Bool, duration: Swift.Int, currentPosition: Swift.Double, xid: Swift.String, thumbnailUrl: Foundation.URL, thumbnailSize: CoreFoundation.CGSize, titile: Swift.String, channelName: Swift.String)
   public func encode(to encoder: any Swift.Encoder) throws
   public init(from decoder: any Swift.Decoder) throws
 }
