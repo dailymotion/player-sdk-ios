@@ -20471,35 +20471,42 @@
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/WebView\/DMPlayerWKWebViewFactory.swift",
       "kind": "BooleanLiteral",
-      "offset": 1081,
+      "offset": 826,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/WebView\/DMPlayerWKWebViewFactory.swift",
       "kind": "BooleanLiteral",
-      "offset": 1258,
+      "offset": 1075,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/WebView\/DMPlayerWKWebViewFactory.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1252,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/WebView\/DMPlayerWKWebViewFactory.swift",
       "kind": "Array",
-      "offset": 1324,
+      "offset": 1318,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/WebView\/DMPlayerWKWebViewFactory.swift",
       "kind": "BooleanLiteral",
-      "offset": 1377,
+      "offset": 1371,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/WebView\/DMPlayerWKWebViewFactory.swift",
       "kind": "BooleanLiteral",
-      "offset": 1748,
+      "offset": 1742,
       "length": 4,
       "value": "true"
     },
