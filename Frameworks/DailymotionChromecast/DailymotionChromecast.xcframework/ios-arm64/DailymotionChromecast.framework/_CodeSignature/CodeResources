@@ -12,13 +12,17 @@
 		<data>
 		XeBfhZ9tPUmsZTCkDjR09SkcMNk=
 		</data>
+		<key>ABCFavorit-RegularItalic.otf</key>
+		<data>
+		Uyp9P77vdtOxduohBl0bo5Io6Ks=
+		</data>
 		<key>Assets.car</key>
 		<data>
 		n6uJNDmuRmCWr7M4LrNTYflkQqI=
 		</data>
 		<key>ChromecastPlayerView.nib</key>
 		<data>
-		3+5cXouaxyrH5DrQTw+rp3RbgyY=
+		y8ZPj102fQSrpbSLSoIvhMdh3bg=
 		</data>
 		<key>DailySans-Bulky.ttf</key>
 		<data>
@@ -30,11 +34,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Gg90eiZe+AQ6n1+DhNop1I39YPQ=
+		B7Q7mlC2Fmssgud/jcw9htpD8Gw=
 		</data>
 		<key>Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		yviet9s4XJRdnZTDSjKtI6hEXvc=
+		rmPF6R1PxGqdAWyB3faOEKT+IHw=
 		</data>
 		<key>Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -50,7 +54,7 @@
 		</data>
 		<key>Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		qbi7KwB8DgtF7qYEO7SwZzPIjDs=
+		RTufLzQ/Mu7caMlY71i9oo8wBzc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,6 +85,13 @@
 			ojaBrVDmhOhnuQVp8Cf2K7bXTa6oEeV035bCTqbJr8A=
 			</data>
 		</dict>
+		<key>ABCFavorit-RegularItalic.otf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kPYdPmyZMwes3Hh5Ws1M0MsvFxmT9NYQC6Tb+YVosAc=
+			</data>
+		</dict>
 		<key>Assets.car</key>
 		<dict>
 			<key>hash2</key>
@@ -92,7 +103,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fGaN11gbstuBjpZBMirth+Lato3LG6F5U5hC/fwACT0=
+			whsv3PfRxSW7kmTFrCqOTb20TjinwgB60cA0Bb/1AJU=
 			</data>
 		</dict>
 		<key>DailySans-Bulky.ttf</key>
@@ -113,7 +124,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			H5dShHWmXuh8EM1sN6sK2b/GV0H3g0urEpT/G2T2oKo=
+			G2oKoruN6nE2GpTGG+1a03F+4IiPm4/2cwu/6PBWIJk=
 			</data>
 		</dict>
 		<key>Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -141,7 +152,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rKMH7n9Zu4OxD3UuCZd62WtpuVb9AXHOfR80MVmQJBc=
+			JwiMlL6wLVIfx0CF6IaO6ew67frfHozUig14D7Mhnqs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
