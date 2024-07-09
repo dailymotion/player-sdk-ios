@@ -209,6 +209,8 @@ extension DailymotionPlayerSDK.DMPlayerFullscreenOrientation : Swift.CustomStrin
   #endif
   @_Concurrency.MainActor(unsafe) public func updateParams(params: DailymotionPlayerSDK.DMPlayerParameters)
   @_Concurrency.MainActor(unsafe) public func notifyFullscreenChanged()
+  @_Concurrency.MainActor(unsafe) public func notifyChromecastStarted()
+  @_Concurrency.MainActor(unsafe) public func notifyChromecastStopped()
 }
 extension DailymotionPlayerSDK.DMPlayerView {
   @objc public enum PresentationMode : Swift.Int {
@@ -320,12 +322,6 @@ public let Dailymotion: DailymotionPlayerSDK.DailymotionPlayer
   public func createPlayer(playerId: Swift.String, videoId: Swift.String? = nil, playlistId: Swift.String? = nil, playerParameters: DailymotionPlayerSDK.DMPlayerParameters = DMPlayerParameters(), playerDelegate: (any DailymotionPlayerSDK.DMPlayerDelegate)? = nil, videoDelegate: (any DailymotionPlayerSDK.DMVideoDelegate)? = nil, adDelegate: (any DailymotionPlayerSDK.DMAdDelegate)? = nil, logLevels: DailymotionPlayerSDK.LogLevel? = nil) async throws -> DailymotionPlayerSDK.DMPlayerView
   #endif
   public func setupDailymotionChromecast()
-  @objc deinit
-}
-@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class DMWKWebView : WebKit.WKWebView {
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public func layoutSubviews()
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(frame: CoreFoundation.CGRect, configuration: WebKit.WKWebViewConfiguration)
-  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
   @objc deinit
 }
 extension DailymotionPlayerSDK.DMPlayerParameters.ScaleMode : Swift.Equatable {}

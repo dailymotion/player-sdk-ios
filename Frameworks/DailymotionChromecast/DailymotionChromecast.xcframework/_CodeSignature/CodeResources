@@ -12,13 +12,17 @@
 		<data>
 		XeBfhZ9tPUmsZTCkDjR09SkcMNk=
 		</data>
+		<key>ios-arm64/DailymotionChromecast.framework/ABCFavorit-RegularItalic.otf</key>
+		<data>
+		Uyp9P77vdtOxduohBl0bo5Io6Ks=
+		</data>
 		<key>ios-arm64/DailymotionChromecast.framework/Assets.car</key>
 		<data>
 		n6uJNDmuRmCWr7M4LrNTYflkQqI=
 		</data>
 		<key>ios-arm64/DailymotionChromecast.framework/ChromecastPlayerView.nib</key>
 		<data>
-		lMHV1q0W9V4n9ChessFDXib/kOg=
+		y8ZPj102fQSrpbSLSoIvhMdh3bg=
 		</data>
 		<key>ios-arm64/DailymotionChromecast.framework/DailySans-Bulky.ttf</key>
 		<data>
@@ -26,31 +30,31 @@
 		</data>
 		<key>ios-arm64/DailymotionChromecast.framework/DailymotionChromecast</key>
 		<data>
-		0RofSjXJl7nRdHUOxyJdSTTTt+M=
+		ljCLIICI3WdDqDAK5hvrp6jjiyQ=
 		</data>
 		<key>ios-arm64/DailymotionChromecast.framework/Headers/DailymotionChromecast-Swift.h</key>
 		<data>
-		3ygkytauU9Rj2dPsvwk3v80uWRI=
+		IHwflfamPk9+V1EitYR6nra/4Ks=
 		</data>
 		<key>ios-arm64/DailymotionChromecast.framework/Info.plist</key>
 		<data>
-		5g5/Cq5zIeNw1PYUhskcjiTq/x0=
+		Fe22rsZ310yGqmTdOa6uPYTDG88=
 		</data>
 		<key>ios-arm64/DailymotionChromecast.framework/Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		Dnm7VH04tZUegdLJZEV4nJpJyFY=
+		By5kzlhvrc/cvZQyBkCWQn1KRik=
 		</data>
 		<key>ios-arm64/DailymotionChromecast.framework/Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		2TQ/kJdFFvOn0xOPDbLhUyX11qA=
+		I8NecO0x+ayL6xArdfMEm0kWkUg=
 		</data>
 		<key>ios-arm64/DailymotionChromecast.framework/Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		TRbYIy+5I1irDkayYujnrxojIhI=
+		sR0FIFcGh4bCqEGGiLbpAgk/Vyg=
 		</data>
 		<key>ios-arm64/DailymotionChromecast.framework/Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		2TQ/kJdFFvOn0xOPDbLhUyX11qA=
+		I8NecO0x+ayL6xArdfMEm0kWkUg=
 		</data>
 		<key>ios-arm64/DailymotionChromecast.framework/Modules/module.modulemap</key>
 		<data>
@@ -66,7 +70,91 @@
 		</data>
 		<key>ios-arm64/DailymotionChromecast.framework/_CodeSignature/CodeResources</key>
 		<data>
-		owkEdW4FwU+/ohL73nm+dpmWm14=
+		odR3ezUS50UrbRVsFRPDS56H9RA=
+		</data>
+		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/ABCFavorit-Bold.otf</key>
+		<data>
+		Bg4pPVbRvzsdob9q2oWaf4sMMqk=
+		</data>
+		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/ABCFavorit-Regular.otf</key>
+		<data>
+		XeBfhZ9tPUmsZTCkDjR09SkcMNk=
+		</data>
+		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/ABCFavorit-RegularItalic.otf</key>
+		<data>
+		Uyp9P77vdtOxduohBl0bo5Io6Ks=
+		</data>
+		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/Assets.car</key>
+		<data>
+		n6uJNDmuRmCWr7M4LrNTYflkQqI=
+		</data>
+		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/ChromecastPlayerView.nib</key>
+		<data>
+		y8ZPj102fQSrpbSLSoIvhMdh3bg=
+		</data>
+		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/DailySans-Bulky.ttf</key>
+		<data>
+		gN/2NzYqeMwcpe32/qDMKul2Huw=
+		</data>
+		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/DailymotionChromecast</key>
+		<data>
+		Pr1dIR+YXlLybwwUj67i3jzWqVg=
+		</data>
+		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/Headers/DailymotionChromecast-Swift.h</key>
+		<data>
+		mujHgkCdtvxy5Fw5ruMfMcoccns=
+		</data>
+		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/Info.plist</key>
+		<data>
+		cJtjjZH1yA8gl+lYDQDGRffkuuk=
+		</data>
+		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<data>
+		lE0OpLr4YrZ6+rCXZFypD+Yyhyw=
+		</data>
+		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		2QAqS1hoW13gcNO+sXJUuwvJBAQ=
+		</data>
+		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		sSdqes1Zaze4x/VUyTM1RRIq2eU=
+		</data>
+		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		2QAqS1hoW13gcNO+sXJUuwvJBAQ=
+		</data>
+		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/Modules/DailymotionChromecast.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<data>
+		lE0OpLr4YrZ6+rCXZFypD+Yyhyw=
+		</data>
+		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/Modules/DailymotionChromecast.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		ijfAuNncRhf0EZBOZAqxzdAOrr4=
+		</data>
+		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/Modules/DailymotionChromecast.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		h3tLX0oxwF0Gby67UG/iH49FlJU=
+		</data>
+		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/Modules/DailymotionChromecast.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		ijfAuNncRhf0EZBOZAqxzdAOrr4=
+		</data>
+		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/Modules/module.modulemap</key>
+		<data>
+		xt2bIpiK3DdOgZ+CFEwG606gFsk=
+		</data>
+		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/Retina-Medium.otf</key>
+		<data>
+		yWA12s03+XbyyVFAPQ8FwWwCO84=
+		</data>
+		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/Retina-Regular.ttf</key>
+		<data>
+		njFxGxPnzzUb9M4/qbXk7x3eYzs=
+		</data>
+		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/_CodeSignature/CodeResources</key>
+		<data>
+		xjlExo5NcI8obcSIJ6I7QgaUVZ0=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -93,6 +181,17 @@
 			ojaBrVDmhOhnuQVp8Cf2K7bXTa6oEeV035bCTqbJr8A=
 			</data>
 		</dict>
+		<key>ios-arm64/DailymotionChromecast.framework/ABCFavorit-RegularItalic.otf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Uyp9P77vdtOxduohBl0bo5Io6Ks=
+			</data>
+			<key>hash2</key>
+			<data>
+			kPYdPmyZMwes3Hh5Ws1M0MsvFxmT9NYQC6Tb+YVosAc=
+			</data>
+		</dict>
 		<key>ios-arm64/DailymotionChromecast.framework/Assets.car</key>
 		<dict>
 			<key>hash</key>
@@ -108,11 +207,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lMHV1q0W9V4n9ChessFDXib/kOg=
+			y8ZPj102fQSrpbSLSoIvhMdh3bg=
 			</data>
 			<key>hash2</key>
 			<data>
-			+NlgLfllDUapSqWQCp3SNHcl+nGQEpt/nEHX5SPcgZ4=
+			whsv3PfRxSW7kmTFrCqOTb20TjinwgB60cA0Bb/1AJU=
 			</data>
 		</dict>
 		<key>ios-arm64/DailymotionChromecast.framework/DailySans-Bulky.ttf</key>
@@ -130,77 +229,77 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0RofSjXJl7nRdHUOxyJdSTTTt+M=
+			ljCLIICI3WdDqDAK5hvrp6jjiyQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			E9mfL12cMFNN95WblLnI4iy28AvO5v3R19s67xSRoV4=
+			mVQtYgY6o1FiplC840tmY1RjUowCeyWu7TStbzVsXFw=
 			</data>
 		</dict>
 		<key>ios-arm64/DailymotionChromecast.framework/Headers/DailymotionChromecast-Swift.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3ygkytauU9Rj2dPsvwk3v80uWRI=
+			IHwflfamPk9+V1EitYR6nra/4Ks=
 			</data>
 			<key>hash2</key>
 			<data>
-			1tKwGOYVoke+Py2lx6J6Kil1ncjBU2VQKMk1C6YR6bc=
+			x+7kbqOpYE+n3EfqLZaWX5w7FzLeyOfBcWqf4fjPiO0=
 			</data>
 		</dict>
 		<key>ios-arm64/DailymotionChromecast.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5g5/Cq5zIeNw1PYUhskcjiTq/x0=
+			Fe22rsZ310yGqmTdOa6uPYTDG88=
 			</data>
 			<key>hash2</key>
 			<data>
-			pctVDftf3CG+XYpi/ODIF37n3Xpk3gIk0C7ficX3e0w=
+			HgoUroKQaLo8F3rE+hbNKp9xaEzQupdtbVy1XYNgMlk=
 			</data>
 		</dict>
 		<key>ios-arm64/DailymotionChromecast.framework/Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Dnm7VH04tZUegdLJZEV4nJpJyFY=
+			By5kzlhvrc/cvZQyBkCWQn1KRik=
 			</data>
 			<key>hash2</key>
 			<data>
-			+d8VrSOhLfaCoQFDfBS11a/ZL43EKw7I6pNZlJxnJ2g=
+			W2p1Gn9op6Be3dvZSBsW3Y8Df2cEZcOrBvC5KUAlNkI=
 			</data>
 		</dict>
 		<key>ios-arm64/DailymotionChromecast.framework/Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2TQ/kJdFFvOn0xOPDbLhUyX11qA=
+			I8NecO0x+ayL6xArdfMEm0kWkUg=
 			</data>
 			<key>hash2</key>
 			<data>
-			kkY9kPTQyhWPvEWumxzMf2Nuju2hOaPFV7D1bOXYydk=
+			JUaHKRpExlckMmXiKVgR/feI5Cj8nzHuus/YLmbdHjM=
 			</data>
 		</dict>
 		<key>ios-arm64/DailymotionChromecast.framework/Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			TRbYIy+5I1irDkayYujnrxojIhI=
+			sR0FIFcGh4bCqEGGiLbpAgk/Vyg=
 			</data>
 			<key>hash2</key>
 			<data>
-			jtBmAD3esHaiS2Q+7xiuTGeriom4tQzTwxEf/sa5hfg=
+			jivqQurENSlrske/kA67rg2x2s3BFiIJsQo/ed+S59k=
 			</data>
 		</dict>
 		<key>ios-arm64/DailymotionChromecast.framework/Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2TQ/kJdFFvOn0xOPDbLhUyX11qA=
+			I8NecO0x+ayL6xArdfMEm0kWkUg=
 			</data>
 			<key>hash2</key>
 			<data>
-			kkY9kPTQyhWPvEWumxzMf2Nuju2hOaPFV7D1bOXYydk=
+			JUaHKRpExlckMmXiKVgR/feI5Cj8nzHuus/YLmbdHjM=
 			</data>
 		</dict>
 		<key>ios-arm64/DailymotionChromecast.framework/Modules/module.modulemap</key>
@@ -240,11 +339,242 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			owkEdW4FwU+/ohL73nm+dpmWm14=
+			odR3ezUS50UrbRVsFRPDS56H9RA=
 			</data>
 			<key>hash2</key>
 			<data>
-			2LUyLn75PghTtVmn0vUO1RoEQrWzg1aR6IYx+LYskSA=
+			eGk15gu20RQH+ZN6R/grmj36Be8qtKD7mK7FATDd7ys=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/ABCFavorit-Bold.otf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Bg4pPVbRvzsdob9q2oWaf4sMMqk=
+			</data>
+			<key>hash2</key>
+			<data>
+			mFOqjLjctbIMH1QbB+iXPIcWcpgD29MzKQ83UaJ1xQo=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/ABCFavorit-Regular.otf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XeBfhZ9tPUmsZTCkDjR09SkcMNk=
+			</data>
+			<key>hash2</key>
+			<data>
+			ojaBrVDmhOhnuQVp8Cf2K7bXTa6oEeV035bCTqbJr8A=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/ABCFavorit-RegularItalic.otf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Uyp9P77vdtOxduohBl0bo5Io6Ks=
+			</data>
+			<key>hash2</key>
+			<data>
+			kPYdPmyZMwes3Hh5Ws1M0MsvFxmT9NYQC6Tb+YVosAc=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/Assets.car</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			n6uJNDmuRmCWr7M4LrNTYflkQqI=
+			</data>
+			<key>hash2</key>
+			<data>
+			cAkpHg/EsMOTzZ8q1962kbpmaxoFK4+kG5WEviuMlxM=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/ChromecastPlayerView.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			y8ZPj102fQSrpbSLSoIvhMdh3bg=
+			</data>
+			<key>hash2</key>
+			<data>
+			whsv3PfRxSW7kmTFrCqOTb20TjinwgB60cA0Bb/1AJU=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/DailySans-Bulky.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gN/2NzYqeMwcpe32/qDMKul2Huw=
+			</data>
+			<key>hash2</key>
+			<data>
+			df8tLa/HjLV84+Jj6uDhsmcCePpoSuoWE1E+GyyWvPg=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/DailymotionChromecast</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Pr1dIR+YXlLybwwUj67i3jzWqVg=
+			</data>
+			<key>hash2</key>
+			<data>
+			k0uGyUG78FueISGU7KryvvL2alsiqrA0bpl9oXBEMgc=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/Headers/DailymotionChromecast-Swift.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mujHgkCdtvxy5Fw5ruMfMcoccns=
+			</data>
+			<key>hash2</key>
+			<data>
+			8cVTp1y/Wj1Z7blPGTpkr9gKR9VHEFWbi1uyPfZV7Ds=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cJtjjZH1yA8gl+lYDQDGRffkuuk=
+			</data>
+			<key>hash2</key>
+			<data>
+			PKTQbeAbhbAyf6z0NZIm8mFsA0kAAMGC1vjuniRn1hk=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lE0OpLr4YrZ6+rCXZFypD+Yyhyw=
+			</data>
+			<key>hash2</key>
+			<data>
+			e1CSVo5urvp5Hq5mQDkMauXpJ+okYwsT5826w+99Oqg=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2QAqS1hoW13gcNO+sXJUuwvJBAQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			eKSi67FbVtRCchQRAkrDPLkaYBewe5GHjlhMhkWW+d4=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			sSdqes1Zaze4x/VUyTM1RRIq2eU=
+			</data>
+			<key>hash2</key>
+			<data>
+			t4kyn/nxL5GAW14D4INmQJRJC/coVGG1cCs04q1y17g=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2QAqS1hoW13gcNO+sXJUuwvJBAQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			eKSi67FbVtRCchQRAkrDPLkaYBewe5GHjlhMhkWW+d4=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/Modules/DailymotionChromecast.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lE0OpLr4YrZ6+rCXZFypD+Yyhyw=
+			</data>
+			<key>hash2</key>
+			<data>
+			e1CSVo5urvp5Hq5mQDkMauXpJ+okYwsT5826w+99Oqg=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/Modules/DailymotionChromecast.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ijfAuNncRhf0EZBOZAqxzdAOrr4=
+			</data>
+			<key>hash2</key>
+			<data>
+			SFsmBpzevD7D+N4uVfRkuzJVFX+brIQZVFiU5n+znk4=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/Modules/DailymotionChromecast.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			h3tLX0oxwF0Gby67UG/iH49FlJU=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZTlMu4MajGZOHQU8rSRamUrR1MPIP4zjIEvlFpL6vzo=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/Modules/DailymotionChromecast.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ijfAuNncRhf0EZBOZAqxzdAOrr4=
+			</data>
+			<key>hash2</key>
+			<data>
+			SFsmBpzevD7D+N4uVfRkuzJVFX+brIQZVFiU5n+znk4=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/Modules/module.modulemap</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xt2bIpiK3DdOgZ+CFEwG606gFsk=
+			</data>
+			<key>hash2</key>
+			<data>
+			tcYKI++A23OU70MFT2jGLIQSN0NbduSmmntUkiN82FA=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/Retina-Medium.otf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yWA12s03+XbyyVFAPQ8FwWwCO84=
+			</data>
+			<key>hash2</key>
+			<data>
+			vD3h66/YZSqCrAASlH5XFdhpub/pwW+mWwuNCck8vUk=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/Retina-Regular.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			njFxGxPnzzUb9M4/qbXk7x3eYzs=
+			</data>
+			<key>hash2</key>
+			<data>
+			aH9aHCcJGLAL/9r1OYpAYduCpXIEXgHISGpC7njnDT8=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xjlExo5NcI8obcSIJ6I7QgaUVZ0=
+			</data>
+			<key>hash2</key>
+			<data>
+			NohkkTsuu4Mm7889pa3tbpys9ZtAxvkR5LivRgTsQ8k=
 			</data>
 		</dict>
 	</dict>
