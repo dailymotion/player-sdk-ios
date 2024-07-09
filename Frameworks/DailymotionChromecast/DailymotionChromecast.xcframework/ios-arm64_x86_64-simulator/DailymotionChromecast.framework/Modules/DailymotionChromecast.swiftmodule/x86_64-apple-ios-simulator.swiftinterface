@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)
-// swift-module-flags: -target x86_64-apple-ios14.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name DailymotionChromecast
-// swift-module-flags-ignorable: -enable-bare-slash-regex
+// swift-compiler-version: Apple Swift version 6.0 effective-5.10 (swiftlang-6.0.0.4.52 clang-1600.0.21.1.3)
+// swift-module-flags: -target x86_64-apple-ios14.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name DailymotionChromecast
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface
 import AVKit
 import Combine
 import DeveloperToolsSupport
@@ -23,8 +23,16 @@ public enum ChromecastError : Swift.Error {
   case remoteMetadataMissing
 }
 public protocol DailymotionChromecastDelegate : AnyObject {
+  #if compiler(>=5.3) && $NoncopyableGenerics
   func castStarted(playable: DailymotionChromecast.Playable?)
+  #else
+  func castStarted(playable: DailymotionChromecast.Playable?)
+  #endif
+  #if compiler(>=5.3) && $NoncopyableGenerics
   func castStopped(position: Swift.Double, playable: DailymotionChromecast.Playable?, suspended: Swift.Bool, error: DailymotionChromecast.ChromecastError?)
+  #else
+  func castStopped(position: Swift.Double, playable: DailymotionChromecast.Playable?, suspended: Swift.Bool, error: DailymotionChromecast.ChromecastError?)
+  #endif
 }
 open class DMChromecast {
   public static let sdkVersion: Swift.String
@@ -34,7 +42,11 @@ open class DMChromecast {
     get
     set
   }
+  #if compiler(>=5.3) && $NoncopyableGenerics
   public init(playable: DailymotionChromecast.Playable, containerView: UIKit.UIView, delegate: (any DailymotionChromecast.DailymotionChromecastDelegate)? = nil)
+  #else
+  public init(playable: DailymotionChromecast.Playable, containerView: UIKit.UIView, delegate: (any DailymotionChromecast.DailymotionChromecastDelegate)? = nil)
+  #endif
   public static func startChromecast()
   public func updatePlayable(playable: DailymotionChromecast.Playable)
   public func updatePlayablePosition(position: Swift.Double)
