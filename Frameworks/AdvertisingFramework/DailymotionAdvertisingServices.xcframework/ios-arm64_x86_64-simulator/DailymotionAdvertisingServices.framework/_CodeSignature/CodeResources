@@ -6,55 +6,55 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		s6ywwkq6PX+jg5uevZiBd4SKFlc=
+		nhnmMouAnHu6vVj7o5a4CXd7bv8=
 		</data>
 		<key>Headers/DailymotionAdvertisingServices-Swift.h</key>
 		<data>
-		jQiKOPzqSbTMtBaQ6ybM9s1vSNQ=
+		1b08YHCiu6DkiEdAnFhcJcGWbUw=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		qorNRY249unwWuw8AxygnAzZI/U=
+		dWPia5MHmezFPHmkPapL6Ej3RVQ=
 		</data>
 		<key>Modules/DailymotionAdvertisingServices.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		+iDEQ+EWcqfkJFRpMur5huH3jHM=
+		pyLkhkplpC9stJRnzdklEE8fwas=
 		</data>
 		<key>Modules/DailymotionAdvertisingServices.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		rnnWPaeU8iKZzH8VcFZiodAHs3k=
+		XdQ1MCBRpoM0RqjM6ahEU2YpX4w=
 		</data>
 		<key>Modules/DailymotionAdvertisingServices.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		luZ2UdsfdZMKuluiBc/7kG00QMk=
+		NDLQYzonZC5GlXeJjOvyR9JuCEM=
 		</data>
 		<key>Modules/DailymotionAdvertisingServices.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		rnnWPaeU8iKZzH8VcFZiodAHs3k=
+		XdQ1MCBRpoM0RqjM6ahEU2YpX4w=
 		</data>
 		<key>Modules/DailymotionAdvertisingServices.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		YFws93e9ZeuDIRG9VE7Y26Dap2U=
+		iO8wchJsgqbHVLSdLR7MqdYvzQc=
 		</data>
 		<key>Modules/DailymotionAdvertisingServices.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		+iDEQ+EWcqfkJFRpMur5huH3jHM=
+		pyLkhkplpC9stJRnzdklEE8fwas=
 		</data>
 		<key>Modules/DailymotionAdvertisingServices.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		KhNPkW513WLg9WT4tdrLvrIohhg=
+		OFxUcikNoiLzBi+Dg4AzLkCugWE=
 		</data>
 		<key>Modules/DailymotionAdvertisingServices.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		3Idmzvr66ZCp0Ox99cRz/5NYzJE=
+		WcitvznY7QIhij9ndR27uF7LPu8=
 		</data>
 		<key>Modules/DailymotionAdvertisingServices.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		KhNPkW513WLg9WT4tdrLvrIohhg=
+		OFxUcikNoiLzBi+Dg4AzLkCugWE=
 		</data>
 		<key>Modules/DailymotionAdvertisingServices.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		958xv9JE2llD6eqzgYqbTCS/eVA=
+		S33SEfehTFWClrZPGsdhTU630wM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -87,7 +87,7 @@
 		</data>
 		<key>omsdk-v1.js</key>
 		<data>
-		LIdxqhQnzCgTUMxshObPipT5ByE=
+		GlfqPsJz8KVEoSAeC7YX/+v3XFg=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -96,84 +96,84 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wV3URBdPekBdRRZ/Tiri8+39dCoFsLoumBh7HqASxnk=
+			XWpRqwZX9Usmi/oxV31pHYXKlH99Il2KnDfenuu6k2k=
 			</data>
 		</dict>
 		<key>Headers/DailymotionAdvertisingServices-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RIfdnIg6BYLtBrVymOtOkGmlCDHEjQbO2z13dRfzVb0=
+			Rgp0tw6J/EQNNf0MRW/Y6BIqKVFovJkJlGGrwcINjuw=
 			</data>
 		</dict>
 		<key>Modules/DailymotionAdvertisingServices.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WxuDv06qN8vbbhBaELaBbH/SyzBRK2GmQY2lqcplYXc=
+			h9URmvj4UdPtbJy5OW6Zl66xiPJ1nMiXttKWSwE+aLw=
 			</data>
 		</dict>
 		<key>Modules/DailymotionAdvertisingServices.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7ze7PdHFxWrVPx1LPXIms4RhMTmIB4CjjSVWXThA9mo=
+			b8OiXQ606RWjrOaU5cy7wW8qgMpQ+cHNonY8XAkF/B0=
 			</data>
 		</dict>
 		<key>Modules/DailymotionAdvertisingServices.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			b6bvavK/pUHvQfnQ7Q/b5FduQBpmpODsOmORJgrbYoo=
+			bbG6L++aCQTh/rUlu7IttMIE0e+sIC37EtTUvX8EUPU=
 			</data>
 		</dict>
 		<key>Modules/DailymotionAdvertisingServices.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7ze7PdHFxWrVPx1LPXIms4RhMTmIB4CjjSVWXThA9mo=
+			b8OiXQ606RWjrOaU5cy7wW8qgMpQ+cHNonY8XAkF/B0=
 			</data>
 		</dict>
 		<key>Modules/DailymotionAdvertisingServices.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WmKE2ZhA/1ZzbW6Tcvg8eO2Ngiacy7TVrTveTaeycIU=
+			jKETa1PCvFleqzYvxuwCM4GDLU7/ctxr8w5zLC+DD10=
 			</data>
 		</dict>
 		<key>Modules/DailymotionAdvertisingServices.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WxuDv06qN8vbbhBaELaBbH/SyzBRK2GmQY2lqcplYXc=
+			h9URmvj4UdPtbJy5OW6Zl66xiPJ1nMiXttKWSwE+aLw=
 			</data>
 		</dict>
 		<key>Modules/DailymotionAdvertisingServices.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BYpDT7Rv690d9z4q7+nw/ebtuMj9zqVLsiIZFRo2rkI=
+			8BDI5ZfyntAMZnio/Nc7xL5519CiNE7thJy6zR52JME=
 			</data>
 		</dict>
 		<key>Modules/DailymotionAdvertisingServices.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+LPAVQDrnVQcGZ5v4iJvvnpxqLOQE37UPBLUpEnbEOI=
+			55eevYvSQh+bzeqJn4L2UV7J0pwQ2rxTXTLVO6q2/DY=
 			</data>
 		</dict>
 		<key>Modules/DailymotionAdvertisingServices.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BYpDT7Rv690d9z4q7+nw/ebtuMj9zqVLsiIZFRo2rkI=
+			8BDI5ZfyntAMZnio/Nc7xL5519CiNE7thJy6zR52JME=
 			</data>
 		</dict>
 		<key>Modules/DailymotionAdvertisingServices.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TZmYVmSUg5MxG3FySNxJ5Cgw8aObQFhuXzgSBUy/JuQ=
+			opAyPscQYYOxv8BlIBh7fd6mFIg8Zbp7MY5i6YwbMv4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -224,7 +224,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			duPww1Uszbq0yCpVU1c4+kwjNV9IaT27i1uF8DeiFqY=
+			ra4FXalcaqwM3nKtA0wBuQ91z5BaWivkiTz6QCwJmuA=
 			</data>
 		</dict>
 	</dict>
