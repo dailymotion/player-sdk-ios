@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		dWPia5MHmezFPHmkPapL6Ej3RVQ=
+		oK1Fk6Wq25HkeMWUrWEPqv2F5WA=
 		</data>
 		<key>Modules/DailymotionAdvertisingServices.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/DailymotionAdvertisingServices.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		iO8wchJsgqbHVLSdLR7MqdYvzQc=
+		e94SyIhmqH60ABGkoQuwH7+vDUE=
 		</data>
 		<key>Modules/DailymotionAdvertisingServices.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/DailymotionAdvertisingServices.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		S33SEfehTFWClrZPGsdhTU630wM=
+		YFoQ5UvFHhcD5UiOhYMcwF/3Xe8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -138,7 +138,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jKETa1PCvFleqzYvxuwCM4GDLU7/ctxr8w5zLC+DD10=
+			mTjbo83I+wKF+3Sr0IWxLf8qckCnkffPILTyrkylMVM=
 			</data>
 		</dict>
 		<key>Modules/DailymotionAdvertisingServices.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -173,7 +173,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			opAyPscQYYOxv8BlIBh7fd6mFIg8Zbp7MY5i6YwbMv4=
+			HrypWG+tAeYOq1bT+tuEVVrUfnYDE4OihaUUKb4Q478=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
