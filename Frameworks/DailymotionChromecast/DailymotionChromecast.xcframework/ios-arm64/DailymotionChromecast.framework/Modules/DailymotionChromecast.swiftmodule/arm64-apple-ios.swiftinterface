@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.0.3 effective-5.10 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)
-// swift-module-flags: -target arm64-apple-ios14.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name DailymotionChromecast
-// swift-module-flags-ignorable: -no-verify-emitted-module-interface
+// swift-compiler-version: Apple Swift version 6.2 effective-5.10 (swiftlang-6.2.0.19.9 clang-1700.3.19.1)
+// swift-module-flags: -target arm64-apple-ios14.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name DailymotionChromecast
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2
 import AVKit
 import Combine
 import DeveloperToolsSupport
@@ -23,8 +23,12 @@ public enum ChromecastError : Swift.Error {
   case remoteMetadataMissing
 }
 public protocol DailymotionChromecastDelegate : AnyObject {
+  #if compiler(>=5.3) && $NonescapableTypes
   func castStarted(playable: DailymotionChromecast.Playable?)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   func castStopped(position: Swift.Double, playable: DailymotionChromecast.Playable?, suspended: Swift.Bool, error: DailymotionChromecast.ChromecastError?)
+  #endif
 }
 open class DMChromecast {
   public static let sdkVersion: Swift.String
@@ -34,7 +38,9 @@ open class DMChromecast {
     get
     set
   }
+  #if compiler(>=5.3) && $NonescapableTypes
   public init(playable: DailymotionChromecast.Playable, containerView: UIKit.UIView, delegate: (any DailymotionChromecast.DailymotionChromecastDelegate)? = nil)
+  #endif
   public static func startChromecast()
   public func updatePlayable(playable: DailymotionChromecast.Playable)
   public func updatePlayablePosition(position: Swift.Double)

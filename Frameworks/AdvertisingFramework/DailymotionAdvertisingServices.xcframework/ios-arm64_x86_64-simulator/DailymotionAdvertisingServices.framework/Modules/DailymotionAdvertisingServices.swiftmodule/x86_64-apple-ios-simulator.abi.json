@@ -148,6 +148,28 @@
           },
           {
             "kind": "Function",
+            "name": "isAdCurrentlyLoading",
+            "printedName": "isAdCurrentlyLoading()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@DailymotionAdvertisingServices@objc(cs)IMAAdManager(im)isAdCurrentlyLoading",
+            "mangledName": "$s30DailymotionAdvertisingServices12IMAAdManagerC20isAdCurrentlyLoadingSbyF",
+            "moduleName": "DailymotionAdvertisingServices",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "imaAdStop",
             "printedName": "imaAdStop()",
             "children": [
@@ -2720,7 +2742,14 @@
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionAdvertisingServices\/Sources\/Private\/IMA\/IMAAdManager\/IMAAdManagerViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 11123,
+      "offset": 902,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionAdvertisingServices\/Sources\/Private\/IMA\/IMAAdManager\/IMAAdManagerViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11279,
       "length": 4,
       "value": "true"
     },

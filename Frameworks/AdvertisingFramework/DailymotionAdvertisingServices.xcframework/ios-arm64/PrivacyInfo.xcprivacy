@@ -3,14 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>NSPrivacyTracking</key>
-	<true/>
+	<false/>
 	<key>NSPrivacyCollectedDataTypes</key>
 	<array/>
 	<key>NSPrivacyAccessedAPITypes</key>
 	<array/>
 	<key>NSPrivacyTrackingDomains</key>
-	<array>
-		<string>securepubads.g.doubleclick.net</string>
-	</array>
+	<array/>
 </dict>
 </plist>
