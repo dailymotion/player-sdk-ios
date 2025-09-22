@@ -53,6 +53,7 @@ public struct DMPlayerParameters : Swift.Codable {
   public var allowIDFA: Swift.Bool
   public var allowPIP: Swift.Bool
   public var defaultFullscreenOrientation: DailymotionPlayerSDK.DMPlayerFullscreenOrientation
+  public var envURL: DailymotionPlayerSDK.DMPlayerParameters.EnvURL
   #if compiler(>=5.3) && $NonescapableTypes
   public init(customConfig: [Swift.String : Swift.String]? = nil, syndicationKey: Swift.String? = nil, scaleMode: DailymotionPlayerSDK.DMPlayerParameters.ScaleMode = .fit, mute: Swift.Bool = false, startTime: Foundation.TimeInterval = 0, loop: Swift.Bool = false, allowIDFA: Swift.Bool = true, allowPIP: Swift.Bool = true, defaultFullscreenOrientation: DailymotionPlayerSDK.DMPlayerFullscreenOrientation = .landscapeRight)
   #endif
@@ -69,6 +70,22 @@ public struct DMPlayerParameters : Swift.Codable {
     public typealias AllCases = [DailymotionPlayerSDK.DMPlayerParameters.ScaleMode]
     public typealias RawValue = Swift.String
     nonisolated public static var allCases: [DailymotionPlayerSDK.DMPlayerParameters.ScaleMode] {
+      get
+    }
+    public var rawValue: Swift.String {
+      get
+    }
+  }
+  public enum EnvURL : Swift.String, Swift.CaseIterable, Swift.Codable {
+    case defaultUrl
+    case stagingUrl
+    case preProdUrl
+    #if compiler(>=5.3) && $NonescapableTypes
+    public init?(rawValue: Swift.String)
+    #endif
+    public typealias AllCases = [DailymotionPlayerSDK.DMPlayerParameters.EnvURL]
+    public typealias RawValue = Swift.String
+    nonisolated public static var allCases: [DailymotionPlayerSDK.DMPlayerParameters.EnvURL] {
       get
     }
     public var rawValue: Swift.String {
@@ -353,6 +370,9 @@ public let Dailymotion: DailymotionPlayerSDK.DailymotionPlayer
 extension DailymotionPlayerSDK.DMPlayerParameters.ScaleMode : Swift.Equatable {}
 extension DailymotionPlayerSDK.DMPlayerParameters.ScaleMode : Swift.Hashable {}
 extension DailymotionPlayerSDK.DMPlayerParameters.ScaleMode : Swift.RawRepresentable {}
+extension DailymotionPlayerSDK.DMPlayerParameters.EnvURL : Swift.Equatable {}
+extension DailymotionPlayerSDK.DMPlayerParameters.EnvURL : Swift.Hashable {}
+extension DailymotionPlayerSDK.DMPlayerParameters.EnvURL : Swift.RawRepresentable {}
 extension DailymotionPlayerSDK.DMPlayerFullscreenOrientation : Swift.Equatable {}
 extension DailymotionPlayerSDK.DMPlayerFullscreenOrientation : Swift.Hashable {}
 extension DailymotionPlayerSDK.DMPlayerView.PresentationMode : Swift.Equatable {}

@@ -1710,6 +1710,92 @@
             ]
           },
           {
+            "kind": "Var",
+            "name": "envURL",
+            "printedName": "envURL",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "EnvURL",
+                "printedName": "DailymotionPlayerSDK.DMPlayerParameters.EnvURL",
+                "usr": "s:20DailymotionPlayerSDK18DMPlayerParametersV6EnvURLO"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:20DailymotionPlayerSDK18DMPlayerParametersV6envURLAC03EnvG0Ovp",
+            "mangledName": "$s20DailymotionPlayerSDK18DMPlayerParametersV6envURLAC03EnvG0Ovp",
+            "moduleName": "DailymotionPlayerSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "EnvURL",
+                    "printedName": "DailymotionPlayerSDK.DMPlayerParameters.EnvURL",
+                    "usr": "s:20DailymotionPlayerSDK18DMPlayerParametersV6EnvURLO"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:20DailymotionPlayerSDK18DMPlayerParametersV6envURLAC03EnvG0Ovg",
+                "mangledName": "$s20DailymotionPlayerSDK18DMPlayerParametersV6envURLAC03EnvG0Ovg",
+                "moduleName": "DailymotionPlayerSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "EnvURL",
+                    "printedName": "DailymotionPlayerSDK.DMPlayerParameters.EnvURL",
+                    "usr": "s:20DailymotionPlayerSDK18DMPlayerParametersV6EnvURLO"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:20DailymotionPlayerSDK18DMPlayerParametersV6envURLAC03EnvG0Ovs",
+                "mangledName": "$s20DailymotionPlayerSDK18DMPlayerParametersV6envURLAC03EnvG0Ovs",
+                "moduleName": "DailymotionPlayerSDK",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:20DailymotionPlayerSDK18DMPlayerParametersV6envURLAC03EnvG0OvM",
+                "mangledName": "$s20DailymotionPlayerSDK18DMPlayerParametersV6envURLAC03EnvG0OvM",
+                "moduleName": "DailymotionPlayerSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
             "kind": "Constructor",
             "name": "init",
             "printedName": "init(customConfig:syndicationKey:scaleMode:mute:startTime:loop:allowIDFA:allowPIP:defaultFullscreenOrientation:)",
@@ -2282,6 +2368,360 @@
                             "name": "ScaleMode",
                             "printedName": "DailymotionPlayerSDK.DMPlayerParameters.ScaleMode",
                             "usr": "s:20DailymotionPlayerSDK18DMPlayerParametersV9ScaleModeO"
+                          }
+                        ],
+                        "usr": "s:Sa"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:s12CaseIterableP",
+                "mangledName": "$ss12CaseIterableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Decodable",
+                "printedName": "Decodable",
+                "usr": "s:Se",
+                "mangledName": "$sSe"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Encodable",
+                "printedName": "Encodable",
+                "usr": "s:SE",
+                "mangledName": "$sSE"
+              }
+            ]
+          },
+          {
+            "kind": "TypeDecl",
+            "name": "EnvURL",
+            "printedName": "EnvURL",
+            "children": [
+              {
+                "kind": "Var",
+                "name": "defaultUrl",
+                "printedName": "defaultUrl",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(DailymotionPlayerSDK.DMPlayerParameters.EnvURL.Type) -> DailymotionPlayerSDK.DMPlayerParameters.EnvURL",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "EnvURL",
+                        "printedName": "DailymotionPlayerSDK.DMPlayerParameters.EnvURL",
+                        "usr": "s:20DailymotionPlayerSDK18DMPlayerParametersV6EnvURLO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "DailymotionPlayerSDK.DMPlayerParameters.EnvURL.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "EnvURL",
+                            "printedName": "DailymotionPlayerSDK.DMPlayerParameters.EnvURL",
+                            "usr": "s:20DailymotionPlayerSDK18DMPlayerParametersV6EnvURLO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:20DailymotionPlayerSDK18DMPlayerParametersV6EnvURLO10defaultUrlyA2EmF",
+                "mangledName": "$s20DailymotionPlayerSDK18DMPlayerParametersV6EnvURLO10defaultUrlyA2EmF",
+                "moduleName": "DailymotionPlayerSDK"
+              },
+              {
+                "kind": "Var",
+                "name": "stagingUrl",
+                "printedName": "stagingUrl",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(DailymotionPlayerSDK.DMPlayerParameters.EnvURL.Type) -> DailymotionPlayerSDK.DMPlayerParameters.EnvURL",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "EnvURL",
+                        "printedName": "DailymotionPlayerSDK.DMPlayerParameters.EnvURL",
+                        "usr": "s:20DailymotionPlayerSDK18DMPlayerParametersV6EnvURLO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "DailymotionPlayerSDK.DMPlayerParameters.EnvURL.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "EnvURL",
+                            "printedName": "DailymotionPlayerSDK.DMPlayerParameters.EnvURL",
+                            "usr": "s:20DailymotionPlayerSDK18DMPlayerParametersV6EnvURLO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:20DailymotionPlayerSDK18DMPlayerParametersV6EnvURLO10stagingUrlyA2EmF",
+                "mangledName": "$s20DailymotionPlayerSDK18DMPlayerParametersV6EnvURLO10stagingUrlyA2EmF",
+                "moduleName": "DailymotionPlayerSDK"
+              },
+              {
+                "kind": "Var",
+                "name": "preProdUrl",
+                "printedName": "preProdUrl",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(DailymotionPlayerSDK.DMPlayerParameters.EnvURL.Type) -> DailymotionPlayerSDK.DMPlayerParameters.EnvURL",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "EnvURL",
+                        "printedName": "DailymotionPlayerSDK.DMPlayerParameters.EnvURL",
+                        "usr": "s:20DailymotionPlayerSDK18DMPlayerParametersV6EnvURLO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "DailymotionPlayerSDK.DMPlayerParameters.EnvURL.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "EnvURL",
+                            "printedName": "DailymotionPlayerSDK.DMPlayerParameters.EnvURL",
+                            "usr": "s:20DailymotionPlayerSDK18DMPlayerParametersV6EnvURLO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:20DailymotionPlayerSDK18DMPlayerParametersV6EnvURLO10preProdUrlyA2EmF",
+                "mangledName": "$s20DailymotionPlayerSDK18DMPlayerParametersV6EnvURLO10preProdUrlyA2EmF",
+                "moduleName": "DailymotionPlayerSDK"
+              },
+              {
+                "kind": "Constructor",
+                "name": "init",
+                "printedName": "init(rawValue:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "DailymotionPlayerSDK.DMPlayerParameters.EnvURL?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "EnvURL",
+                        "printedName": "DailymotionPlayerSDK.DMPlayerParameters.EnvURL",
+                        "usr": "s:20DailymotionPlayerSDK18DMPlayerParametersV6EnvURLO"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Constructor",
+                "usr": "s:20DailymotionPlayerSDK18DMPlayerParametersV6EnvURLO8rawValueAESgSS_tcfc",
+                "mangledName": "$s20DailymotionPlayerSDK18DMPlayerParametersV6EnvURLO8rawValueAESgSS_tcfc",
+                "moduleName": "DailymotionPlayerSDK",
+                "implicit": true,
+                "init_kind": "Designated"
+              },
+              {
+                "kind": "Var",
+                "name": "rawValue",
+                "printedName": "rawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:20DailymotionPlayerSDK18DMPlayerParametersV6EnvURLO8rawValueSSvp",
+                "mangledName": "$s20DailymotionPlayerSDK18DMPlayerParametersV6EnvURLO8rawValueSSvp",
+                "moduleName": "DailymotionPlayerSDK",
+                "implicit": true,
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:20DailymotionPlayerSDK18DMPlayerParametersV6EnvURLO8rawValueSSvg",
+                    "mangledName": "$s20DailymotionPlayerSDK18DMPlayerParametersV6EnvURLO8rawValueSSvg",
+                    "moduleName": "DailymotionPlayerSDK",
+                    "implicit": true,
+                    "accessorKind": "get"
+                  }
+                ]
+              },
+              {
+                "kind": "Var",
+                "name": "allCases",
+                "printedName": "allCases",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[DailymotionPlayerSDK.DMPlayerParameters.EnvURL]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "EnvURL",
+                        "printedName": "DailymotionPlayerSDK.DMPlayerParameters.EnvURL",
+                        "usr": "s:20DailymotionPlayerSDK18DMPlayerParametersV6EnvURLO"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:20DailymotionPlayerSDK18DMPlayerParametersV6EnvURLO8allCasesSayAEGvpZ",
+                "mangledName": "$s20DailymotionPlayerSDK18DMPlayerParametersV6EnvURLO8allCasesSayAEGvpZ",
+                "moduleName": "DailymotionPlayerSDK",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Nonisolated"
+                ],
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Array",
+                        "printedName": "[DailymotionPlayerSDK.DMPlayerParameters.EnvURL]",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "EnvURL",
+                            "printedName": "DailymotionPlayerSDK.DMPlayerParameters.EnvURL",
+                            "usr": "s:20DailymotionPlayerSDK18DMPlayerParametersV6EnvURLO"
+                          }
+                        ],
+                        "usr": "s:Sa"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:20DailymotionPlayerSDK18DMPlayerParametersV6EnvURLO8allCasesSayAEGvgZ",
+                    "mangledName": "$s20DailymotionPlayerSDK18DMPlayerParametersV6EnvURLO8allCasesSayAEGvgZ",
+                    "moduleName": "DailymotionPlayerSDK",
+                    "static": true,
+                    "implicit": true,
+                    "accessorKind": "get"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Enum",
+            "usr": "s:20DailymotionPlayerSDK18DMPlayerParametersV6EnvURLO",
+            "mangledName": "$s20DailymotionPlayerSDK18DMPlayerParametersV6EnvURLO",
+            "moduleName": "DailymotionPlayerSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "enumRawTypeName": "String",
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Equatable",
+                "printedName": "Equatable",
+                "usr": "s:SQ",
+                "mangledName": "$sSQ"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Hashable",
+                "printedName": "Hashable",
+                "usr": "s:SH",
+                "mangledName": "$sSH"
+              },
+              {
+                "kind": "Conformance",
+                "name": "RawRepresentable",
+                "printedName": "RawRepresentable",
+                "children": [
+                  {
+                    "kind": "TypeWitness",
+                    "name": "RawValue",
+                    "printedName": "RawValue",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:SY",
+                "mangledName": "$sSY"
+              },
+              {
+                "kind": "Conformance",
+                "name": "CaseIterable",
+                "printedName": "CaseIterable",
+                "children": [
+                  {
+                    "kind": "TypeWitness",
+                    "name": "AllCases",
+                    "printedName": "AllCases",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Array",
+                        "printedName": "[DailymotionPlayerSDK.DMPlayerParameters.EnvURL]",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "EnvURL",
+                            "printedName": "DailymotionPlayerSDK.DMPlayerParameters.EnvURL",
+                            "usr": "s:20DailymotionPlayerSDK18DMPlayerParametersV6EnvURLO"
                           }
                         ],
                         "usr": "s:Sa"
@@ -16807,98 +17247,98 @@
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/Public\/DMPlayerParameters.swift",
       "kind": "BooleanLiteral",
-      "offset": 2932,
+      "offset": 2939,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/Public\/DMPlayerParameters.swift",
       "kind": "IntegerLiteral",
-      "offset": 2965,
+      "offset": 2972,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/Public\/DMPlayerParameters.swift",
       "kind": "BooleanLiteral",
-      "offset": 2981,
+      "offset": 2988,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/Public\/DMPlayerParameters.swift",
       "kind": "BooleanLiteral",
-      "offset": 3006,
+      "offset": 3013,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/Public\/DMPlayerParameters.swift",
       "kind": "BooleanLiteral",
-      "offset": 3029,
+      "offset": 3036,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/Public\/DMPlayerParameters.swift",
       "kind": "StringLiteral",
-      "offset": 3519,
+      "offset": 3526,
       "length": 5,
       "value": "\"fit\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/Public\/DMPlayerParameters.swift",
       "kind": "StringLiteral",
-      "offset": 3565,
+      "offset": 3572,
       "length": 6,
       "value": "\"fill\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/Public\/DMPlayerParameters.swift",
       "kind": "StringLiteral",
-      "offset": 3621,
+      "offset": 3628,
       "length": 10,
       "value": "\"fillLeft\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/Public\/DMPlayerParameters.swift",
       "kind": "StringLiteral",
-      "offset": 3683,
+      "offset": 3690,
       "length": 11,
       "value": "\"fillRight\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/Public\/DMPlayerParameters.swift",
       "kind": "StringLiteral",
-      "offset": 3742,
+      "offset": 3749,
       "length": 9,
       "value": "\"fillTop\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/Public\/DMPlayerParameters.swift",
       "kind": "StringLiteral",
-      "offset": 3805,
+      "offset": 3812,
       "length": 12,
       "value": "\"fillBottom\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/Public\/DMPlayerParameters.swift",
       "kind": "StringLiteral",
-      "offset": 4144,
+      "offset": 4158,
       "length": 29,
       "value": "\"https:\/\/geo.dailymotion.com\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/Public\/DMPlayerParameters.swift",
       "kind": "StringLiteral",
-      "offset": 4196,
+      "offset": 4210,
       "length": 38,
       "value": "\"https:\/\/geo-stage-01.dailymotion.com\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/Public\/DMPlayerParameters.swift",
       "kind": "StringLiteral",
-      "offset": 4257,
+      "offset": 4271,
       "length": 37,
       "value": "\"https:\/\/geo-preprod.dailymotion.com\""
     },
