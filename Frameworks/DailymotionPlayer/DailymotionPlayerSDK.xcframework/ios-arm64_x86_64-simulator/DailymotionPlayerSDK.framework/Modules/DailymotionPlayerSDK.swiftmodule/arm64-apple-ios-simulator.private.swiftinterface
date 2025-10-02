@@ -80,6 +80,7 @@ public struct DMPlayerParameters : Swift.Codable {
     case defaultUrl
     case stagingUrl
     case preProdUrl
+    case localUrl
     #if compiler(>=5.3) && $NonescapableTypes
     public init?(rawValue: Swift.String)
     #endif

@@ -2511,6 +2511,43 @@
                 "moduleName": "DailymotionPlayerSDK"
               },
               {
+                "kind": "Var",
+                "name": "localUrl",
+                "printedName": "localUrl",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(DailymotionPlayerSDK.DMPlayerParameters.EnvURL.Type) -> DailymotionPlayerSDK.DMPlayerParameters.EnvURL",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "EnvURL",
+                        "printedName": "DailymotionPlayerSDK.DMPlayerParameters.EnvURL",
+                        "usr": "s:20DailymotionPlayerSDK18DMPlayerParametersV6EnvURLO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "DailymotionPlayerSDK.DMPlayerParameters.EnvURL.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "EnvURL",
+                            "printedName": "DailymotionPlayerSDK.DMPlayerParameters.EnvURL",
+                            "usr": "s:20DailymotionPlayerSDK18DMPlayerParametersV6EnvURLO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:20DailymotionPlayerSDK18DMPlayerParametersV6EnvURLO8localUrlyA2EmF",
+                "mangledName": "$s20DailymotionPlayerSDK18DMPlayerParametersV6EnvURLO8localUrlyA2EmF",
+                "moduleName": "DailymotionPlayerSDK"
+              },
+              {
                 "kind": "Constructor",
                 "name": "init",
                 "printedName": "init(rawValue:)",
@@ -17324,23 +17361,30 @@
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/Public\/DMPlayerParameters.swift",
       "kind": "StringLiteral",
-      "offset": 4158,
+      "offset": 4222,
       "length": 29,
       "value": "\"https:\/\/geo.dailymotion.com\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/Public\/DMPlayerParameters.swift",
       "kind": "StringLiteral",
-      "offset": 4210,
+      "offset": 4274,
       "length": 38,
       "value": "\"https:\/\/geo-stage-01.dailymotion.com\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/Public\/DMPlayerParameters.swift",
       "kind": "StringLiteral",
-      "offset": 4271,
+      "offset": 4335,
       "length": 37,
       "value": "\"https:\/\/geo-preprod.dailymotion.com\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/Public\/DMPlayerParameters.swift",
+      "kind": "StringLiteral",
+      "offset": 4393,
+      "length": 43,
+      "value": "\"https:\/\/player.local.dailymotion.com:9096\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/PlayerError\/PlayerError.swift",
