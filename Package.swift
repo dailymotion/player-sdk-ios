@@ -8,14 +8,18 @@ let package = Package(
   platforms: [.iOS(.v13)],
   products: [
     // Products define the executables and libraries a package produces, and make them visible to other packages.
+    // Core player SDK without Chromecast support
     .library(
       name: "DailymotionPlayerSDK",
       targets: ["DailymotionPlayerSDK",
-                "DailymotionChromecast",
-                "GoogleCast",
                 "DailymotionAdvertisingServices" ,
                 "GoogleInteractiveMediaAds",
                 "OMSDK_Dailymotion3"]),
+    // Optional Chromecast support - import this separately if needed
+    .library(
+      name: "DailymotionChromecast",
+      targets: ["DailymotionChromecast",
+                "GoogleCast"]),
   ],
   targets: [
     // Targets are the basic building blocks of a package. A target can define a module or a test suite.
