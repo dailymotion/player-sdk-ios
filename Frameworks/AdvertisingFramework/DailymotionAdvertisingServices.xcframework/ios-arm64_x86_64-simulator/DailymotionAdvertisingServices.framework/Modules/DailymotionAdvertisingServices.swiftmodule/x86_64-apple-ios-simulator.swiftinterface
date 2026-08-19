@@ -29,6 +29,7 @@ import os
   @objc public func pause()
   @objc public func togglePlay()
   @objc public func toggleMute()
+  @objc public func setVolume(_ volume: Swift.Float)
   @objc deinit
 }
 @objc open class DMAdvertisingServices : ObjectiveC.NSObject {

@@ -6,7 +6,7 @@
 	<dict>
 		<key>ios-arm64/DailymotionPlayerSDK.framework/DailymotionPlayerSDK</key>
 		<data>
-		VAfIQ/7UPtrtrXcG6Twh9d/H3bY=
+		a0NgzoDbib+RQUVOGa8TpVG6fx4=
 		</data>
 		<key>ios-arm64/DailymotionPlayerSDK.framework/ForceUpdateDefaultViewController.nib</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>ios-arm64/DailymotionPlayerSDK.framework/Headers/AdvertisingBridge.h</key>
 		<data>
-		kkT8yRg9ADnVI30hf5nLiMdoCgw=
+		EUx3gkyoWOAuwvEou1AMzF7JAPw=
 		</data>
 		<key>ios-arm64/DailymotionPlayerSDK.framework/Headers/DailymotionPlayerSDK-Swift.h</key>
 		<data>
@@ -30,19 +30,19 @@
 		</data>
 		<key>ios-arm64/DailymotionPlayerSDK.framework/Modules/DailymotionPlayerSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		yx7jxGH0DufQknxh6z4W59fqJUM=
+		eQ83hNXsH3jCQrWSAxxwLoCsD+M=
 		</data>
 		<key>ios-arm64/DailymotionPlayerSDK.framework/Modules/DailymotionPlayerSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		ZKMN0nUTtxULniUxDrefuRlI2Nk=
+		GzChZuczqqIvgTXRGHjl+D1ndGE=
 		</data>
 		<key>ios-arm64/DailymotionPlayerSDK.framework/Modules/DailymotionPlayerSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		o7xeKMQXlGEOKwVgK+dmhTSVQME=
+		vyWp0XR1Omt8rr4WcsYVoFkVCIw=
 		</data>
 		<key>ios-arm64/DailymotionPlayerSDK.framework/Modules/DailymotionPlayerSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		ZKMN0nUTtxULniUxDrefuRlI2Nk=
+		GzChZuczqqIvgTXRGHjl+D1ndGE=
 		</data>
 		<key>ios-arm64/DailymotionPlayerSDK.framework/Modules/module.modulemap</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>ios-arm64/DailymotionPlayerSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
-		1ij42nGJVGDWvPITsquZ8f2P/Xo=
+		IGZmmosnXWE6nfX0LQFeDghbdAs=
 		</data>
 		<key>ios-arm64/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/DailymotionPlayerSDK.framework/DailymotionPlayerSDK</key>
 		<data>
-		Hy3Qjs9oh6t7tSPxsryPIBvuXsY=
+		vqn/OYXjdJ8R4YnvP6cFodkmObg=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DailymotionPlayerSDK.framework/ForceUpdateDefaultViewController.nib</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/DailymotionPlayerSDK.framework/Headers/AdvertisingBridge.h</key>
 		<data>
-		kkT8yRg9ADnVI30hf5nLiMdoCgw=
+		EUx3gkyoWOAuwvEou1AMzF7JAPw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DailymotionPlayerSDK.framework/Headers/DailymotionPlayerSDK-Swift.h</key>
 		<data>
@@ -86,35 +86,35 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/DailymotionPlayerSDK.framework/Modules/DailymotionPlayerSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		yx7jxGH0DufQknxh6z4W59fqJUM=
+		eQ83hNXsH3jCQrWSAxxwLoCsD+M=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DailymotionPlayerSDK.framework/Modules/DailymotionPlayerSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		2ce2pbNPSE4qkl0PuTLhuJJ8RF8=
+		+OatJ069nEgnwntGmIpfhunT/VU=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DailymotionPlayerSDK.framework/Modules/DailymotionPlayerSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		9aMBaX++ouFms2NRtw8DsuNknrk=
+		KlTg3l/dE4Di7tOiBt9VvoAN+Ps=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DailymotionPlayerSDK.framework/Modules/DailymotionPlayerSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		2ce2pbNPSE4qkl0PuTLhuJJ8RF8=
+		+OatJ069nEgnwntGmIpfhunT/VU=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DailymotionPlayerSDK.framework/Modules/DailymotionPlayerSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		yx7jxGH0DufQknxh6z4W59fqJUM=
+		eQ83hNXsH3jCQrWSAxxwLoCsD+M=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DailymotionPlayerSDK.framework/Modules/DailymotionPlayerSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		q3jfVMsA0PYP9IdhGFV4Ai3OLw8=
+		u0Yk+uyVAn7lqb3IhJz8zNH5QaE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DailymotionPlayerSDK.framework/Modules/DailymotionPlayerSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		dr4YsBY8PHCLCW+yYM+yCUI8pMk=
+		flPsm3fPPPuBP8c/z+89tVSY4IE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DailymotionPlayerSDK.framework/Modules/DailymotionPlayerSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		q3jfVMsA0PYP9IdhGFV4Ai3OLw8=
+		u0Yk+uyVAn7lqb3IhJz8zNH5QaE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DailymotionPlayerSDK.framework/Modules/module.modulemap</key>
 		<data>
@@ -126,7 +126,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/DailymotionPlayerSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
-		0IE+WJwDE2W8sZUzwIVAfLIlCHs=
+		khU9GEeO+sEFHy2lCmIpg+oVPB4=
 		</data>
 		<key>ios-arm64_x86_64-simulator/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -139,11 +139,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VAfIQ/7UPtrtrXcG6Twh9d/H3bY=
+			a0NgzoDbib+RQUVOGa8TpVG6fx4=
 			</data>
 			<key>hash2</key>
 			<data>
-			TIGS0a5g0waAevd8hoB1H6vtBeY9RFXLkvIinMKvnVs=
+			slP0+d2t70jsBFvf/NP7rF4DnlYtCugW/aVL79ymCvo=
 			</data>
 		</dict>
 		<key>ios-arm64/DailymotionPlayerSDK.framework/ForceUpdateDefaultViewController.nib</key>
@@ -161,11 +161,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kkT8yRg9ADnVI30hf5nLiMdoCgw=
+			EUx3gkyoWOAuwvEou1AMzF7JAPw=
 			</data>
 			<key>hash2</key>
 			<data>
-			Sn8cI8yrTVD0tCQlOnu8WPXArbN4Hhi6Y535uJD0iPE=
+			0e2LN0X04MTM4pu43f/x3hgMx6YMR1ZXIqfjnznjgcQ=
 			</data>
 		</dict>
 		<key>ios-arm64/DailymotionPlayerSDK.framework/Headers/DailymotionPlayerSDK-Swift.h</key>
@@ -205,44 +205,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yx7jxGH0DufQknxh6z4W59fqJUM=
+			eQ83hNXsH3jCQrWSAxxwLoCsD+M=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZZFc9WdLhvAVYqUkul09AeFGUaHNm4Sl3A2skHKRVy0=
+			WMt3iF+r/mzzSddbeXBlk/mSMLGmdSoTnzKkRBSTwcE=
 			</data>
 		</dict>
 		<key>ios-arm64/DailymotionPlayerSDK.framework/Modules/DailymotionPlayerSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZKMN0nUTtxULniUxDrefuRlI2Nk=
+			GzChZuczqqIvgTXRGHjl+D1ndGE=
 			</data>
 			<key>hash2</key>
 			<data>
-			eYqsHRPdmwHnIPaMS+hEOgndzxghJ9fHwlJEA2bR+C8=
+			ioWHFdFkdbDpmB7EYlp5pv+IslKyyx7f83134nryWb8=
 			</data>
 		</dict>
 		<key>ios-arm64/DailymotionPlayerSDK.framework/Modules/DailymotionPlayerSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			o7xeKMQXlGEOKwVgK+dmhTSVQME=
+			vyWp0XR1Omt8rr4WcsYVoFkVCIw=
 			</data>
 			<key>hash2</key>
 			<data>
-			oFCaivUGI+EMLiIarErTPvnrngLYHw6hrONDCvcO6lA=
+			CoykaLi+UQeb5VsZn2rcqVruUimzFWXIVbdiaWxIZR0=
 			</data>
 		</dict>
 		<key>ios-arm64/DailymotionPlayerSDK.framework/Modules/DailymotionPlayerSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZKMN0nUTtxULniUxDrefuRlI2Nk=
+			GzChZuczqqIvgTXRGHjl+D1ndGE=
 			</data>
 			<key>hash2</key>
 			<data>
-			eYqsHRPdmwHnIPaMS+hEOgndzxghJ9fHwlJEA2bR+C8=
+			ioWHFdFkdbDpmB7EYlp5pv+IslKyyx7f83134nryWb8=
 			</data>
 		</dict>
 		<key>ios-arm64/DailymotionPlayerSDK.framework/Modules/module.modulemap</key>
@@ -271,11 +271,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1ij42nGJVGDWvPITsquZ8f2P/Xo=
+			IGZmmosnXWE6nfX0LQFeDghbdAs=
 			</data>
 			<key>hash2</key>
 			<data>
-			KIs2kny8ZeqrKFzUqtIXxwtbLU+8ue4TeOhEGAZU46E=
+			zkHkm3p+yHeWaDXVwZPLv1jEO6VHARyZCfsFmdOs7C4=
 			</data>
 		</dict>
 		<key>ios-arm64/PrivacyInfo.xcprivacy</key>
@@ -293,11 +293,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Hy3Qjs9oh6t7tSPxsryPIBvuXsY=
+			vqn/OYXjdJ8R4YnvP6cFodkmObg=
 			</data>
 			<key>hash2</key>
 			<data>
-			2ONE9xoKpWdButF33wlpOyNeWB3fz2DnVJjmIQ9prfg=
+			ovVYpPuv0ZGfn4WolXBtZWNIua94R6B8nJPVXabpWJc=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DailymotionPlayerSDK.framework/ForceUpdateDefaultViewController.nib</key>
@@ -315,11 +315,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kkT8yRg9ADnVI30hf5nLiMdoCgw=
+			EUx3gkyoWOAuwvEou1AMzF7JAPw=
 			</data>
 			<key>hash2</key>
 			<data>
-			Sn8cI8yrTVD0tCQlOnu8WPXArbN4Hhi6Y535uJD0iPE=
+			0e2LN0X04MTM4pu43f/x3hgMx6YMR1ZXIqfjnznjgcQ=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DailymotionPlayerSDK.framework/Headers/DailymotionPlayerSDK-Swift.h</key>
@@ -359,88 +359,88 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yx7jxGH0DufQknxh6z4W59fqJUM=
+			eQ83hNXsH3jCQrWSAxxwLoCsD+M=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZZFc9WdLhvAVYqUkul09AeFGUaHNm4Sl3A2skHKRVy0=
+			WMt3iF+r/mzzSddbeXBlk/mSMLGmdSoTnzKkRBSTwcE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DailymotionPlayerSDK.framework/Modules/DailymotionPlayerSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2ce2pbNPSE4qkl0PuTLhuJJ8RF8=
+			+OatJ069nEgnwntGmIpfhunT/VU=
 			</data>
 			<key>hash2</key>
 			<data>
-			gF69DHsl7tbaVOg8b0tQ0JXcR6/a5vdKccrQnMowMks=
+			GMenJIjCymaRuQG6UOr0EQJ7QRrL6y3pzr5lMcvUNis=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DailymotionPlayerSDK.framework/Modules/DailymotionPlayerSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9aMBaX++ouFms2NRtw8DsuNknrk=
+			KlTg3l/dE4Di7tOiBt9VvoAN+Ps=
 			</data>
 			<key>hash2</key>
 			<data>
-			BYT8mCTCdEyHd/M6hg25Q7Y4/VE0iopEsWM14CTKGq0=
+			StNnR7sI+wG85/O6mnP6ZJakFwPgAghvoAf0vXRZwnE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DailymotionPlayerSDK.framework/Modules/DailymotionPlayerSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2ce2pbNPSE4qkl0PuTLhuJJ8RF8=
+			+OatJ069nEgnwntGmIpfhunT/VU=
 			</data>
 			<key>hash2</key>
 			<data>
-			gF69DHsl7tbaVOg8b0tQ0JXcR6/a5vdKccrQnMowMks=
+			GMenJIjCymaRuQG6UOr0EQJ7QRrL6y3pzr5lMcvUNis=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DailymotionPlayerSDK.framework/Modules/DailymotionPlayerSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yx7jxGH0DufQknxh6z4W59fqJUM=
+			eQ83hNXsH3jCQrWSAxxwLoCsD+M=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZZFc9WdLhvAVYqUkul09AeFGUaHNm4Sl3A2skHKRVy0=
+			WMt3iF+r/mzzSddbeXBlk/mSMLGmdSoTnzKkRBSTwcE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DailymotionPlayerSDK.framework/Modules/DailymotionPlayerSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			q3jfVMsA0PYP9IdhGFV4Ai3OLw8=
+			u0Yk+uyVAn7lqb3IhJz8zNH5QaE=
 			</data>
 			<key>hash2</key>
 			<data>
-			7eE7P9f1LAbglnYDpmxvr+vyNddrziW2dsS9eA1UiX0=
+			1Nk8C+GcGvkNuSFtc/c2nk0vWXf/lwFcR1eyTdFm0fU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DailymotionPlayerSDK.framework/Modules/DailymotionPlayerSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dr4YsBY8PHCLCW+yYM+yCUI8pMk=
+			flPsm3fPPPuBP8c/z+89tVSY4IE=
 			</data>
 			<key>hash2</key>
 			<data>
-			/LYI3p19JxomvYlyk5WeIb0JcVZNbpEZet/FgmhNOrA=
+			58nOZ5ZUqs+xLOWGi5NAeE7rFqb0igYmhymWbll24+U=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DailymotionPlayerSDK.framework/Modules/DailymotionPlayerSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			q3jfVMsA0PYP9IdhGFV4Ai3OLw8=
+			u0Yk+uyVAn7lqb3IhJz8zNH5QaE=
 			</data>
 			<key>hash2</key>
 			<data>
-			7eE7P9f1LAbglnYDpmxvr+vyNddrziW2dsS9eA1UiX0=
+			1Nk8C+GcGvkNuSFtc/c2nk0vWXf/lwFcR1eyTdFm0fU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DailymotionPlayerSDK.framework/Modules/module.modulemap</key>
@@ -469,11 +469,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0IE+WJwDE2W8sZUzwIVAfLIlCHs=
+			khU9GEeO+sEFHy2lCmIpg+oVPB4=
 			</data>
 			<key>hash2</key>
 			<data>
-			UGRkNOwsEUVbFg+UDQ/rMkVMu3JvBs6ZdH5AhSyWx80=
+			71/QTnGP8SjkCnZ+nJvZHl+uHpACHT5JFa8JXPQU4c0=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/PrivacyInfo.xcprivacy</key>

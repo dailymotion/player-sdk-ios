@@ -39,6 +39,7 @@ NS_ASSUME_NONNULL_BEGIN
 - (void)imaFullScreenViewController:(UIViewController * _Nullable) viewController;
 - (void)imaPlayPause;
 - (void)imaToggleMute;
+- (void)imaSetVolume:(float)volume;
 - (void)imaToggleFullscreen;
 - (void)imaPause;
 - (void)imaPlay;

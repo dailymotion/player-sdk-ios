@@ -6952,6 +6952,35 @@
           },
           {
             "kind": "Function",
+            "name": "setVolume",
+            "printedName": "setVolume(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "usr": "s:Sd"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:20DailymotionPlayerSDK12DMPlayerViewC9setVolumeyySdF",
+            "mangledName": "$s20DailymotionPlayerSDK12DMPlayerViewC9setVolumeyySdF",
+            "moduleName": "DailymotionPlayerSDK",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "setSubtitles",
             "printedName": "setSubtitles(code:)",
             "children": [
@@ -16817,7 +16846,7 @@
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/PlayerCommandExecutor\/PlayerCommandExecutor.swift",
       "kind": "BooleanLiteral",
-      "offset": 5254,
+      "offset": 5181,
       "length": 5,
       "value": "false"
     },
@@ -17216,21 +17245,21 @@
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/Public\/DMPlayerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 19033,
+      "offset": 19440,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/Public\/DMPlayerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 19108,
+      "offset": 19515,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/Public\/DMPlayerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 19170,
+      "offset": 19577,
       "length": 1,
       "value": "2"
     },
@@ -17776,70 +17805,63 @@
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/PlayerCommandExecutor\/PlayerCommands.swift",
       "kind": "StringLiteral",
-      "offset": 496,
-      "length": 6,
-      "value": "\"mute\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/PlayerCommandExecutor\/PlayerCommands.swift",
-      "kind": "StringLiteral",
-      "offset": 519,
+      "offset": 498,
       "length": 8,
-      "value": "\"unmute\""
+      "value": "\"volume\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/PlayerCommandExecutor\/PlayerCommands.swift",
       "kind": "StringLiteral",
-      "offset": 547,
+      "offset": 526,
       "length": 10,
       "value": "\"starTime\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/PlayerCommandExecutor\/PlayerCommands.swift",
       "kind": "StringLiteral",
-      "offset": 572,
+      "offset": 551,
       "length": 6,
       "value": "\"loop\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/PlayerCommandExecutor\/PlayerCommands.swift",
       "kind": "StringLiteral",
-      "offset": 599,
+      "offset": 578,
       "length": 12,
       "value": "\"fullscreen\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/PlayerCommandExecutor\/PlayerCommands.swift",
       "kind": "StringLiteral",
-      "offset": 633,
+      "offset": 612,
       "length": 13,
       "value": "\"playerstate\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/PlayerCommandExecutor\/PlayerCommands.swift",
       "kind": "StringLiteral",
-      "offset": 660,
+      "offset": 639,
       "length": 5,
       "value": "\"ima\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/PlayerCommandExecutor\/PlayerCommands.swift",
       "kind": "StringLiteral",
-      "offset": 699,
+      "offset": 678,
       "length": 25,
       "value": "\"nativeChromecastStarted\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/PlayerCommandExecutor\/PlayerCommands.swift",
       "kind": "StringLiteral",
-      "offset": 758,
+      "offset": 737,
       "length": 25,
       "value": "\"nativeChromecastStopped\""
     },
     {
       "filePath": "\/Users\/runner\/work\/dailymotion-player-ios-sdk\/dailymotion-player-ios-sdk\/main\/DailymotionPlayerSDK\/Sources\/PlayerCommandExecutor\/PlayerCommands.swift",
       "kind": "StringLiteral",
-      "offset": 813,
+      "offset": 792,
       "length": 7,
       "value": "\"speed\""
     }

@@ -204,6 +204,7 @@ extension DailymotionPlayerSDK.DMPlayerFullscreenOrientation : Swift.CustomStrin
   @_Concurrency.MainActor @preconcurrency public func loadContent(videoId: Swift.String? = nil, playlistId: Swift.String? = nil, startTime: Foundation.TimeInterval? = nil)
   @_Concurrency.MainActor @preconcurrency public func play()
   @_Concurrency.MainActor @preconcurrency public func pause()
+  @_Concurrency.MainActor @preconcurrency public func setVolume(_ volume: Swift.Double)
   @_Concurrency.MainActor @preconcurrency public func setSubtitles(code: Swift.String)
   @_Concurrency.MainActor @preconcurrency public func setQuality(level: Swift.String)
   @_Concurrency.MainActor @preconcurrency public func seek(to: Foundation.TimeInterval)
