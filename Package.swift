@@ -14,7 +14,15 @@ let package = Package(
                 "DailymotionChromecast",
                 "GoogleCast",
                 "DailymotionAdvertisingServices" ,
-                "GoogleInteractiveMediaAds",
+                "DMGoogleInteractiveMediaAds",
+                "OMSDK_Dailymotion"]),
+    // Same SDK without the bundled Google IMA: the host app must add Google's IMA package itself.
+    .library(
+      name: "DailymotionPlayerSDKNoIMA",
+      targets: ["DailymotionPlayerSDK",
+                "DailymotionChromecast",
+                "GoogleCast",
+                "DailymotionAdvertisingServices",
                 "OMSDK_Dailymotion"]),
   ],
   targets: [
@@ -37,7 +45,7 @@ let package = Package(
       path: "Frameworks/DailymotionPlayer/DailymotionPlayerSDK.xcframework"
     ),
     .binaryTarget(
-      name: "GoogleInteractiveMediaAds",
+      name: "DMGoogleInteractiveMediaAds",
       path: "Frameworks/AdvertisingFramework/GoogleInteractiveMediaAds.xcframework"
     ),
     .binaryTarget(
