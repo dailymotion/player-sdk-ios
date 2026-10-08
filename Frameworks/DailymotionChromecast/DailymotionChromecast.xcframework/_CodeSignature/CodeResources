@@ -30,7 +30,7 @@
 		</data>
 		<key>ios-arm64/DailymotionChromecast.framework/DailymotionChromecast</key>
 		<data>
-		v6W8UZMxZHK3IdGdfRhpza74Scg=
+		k2UdnSuwaG65JR7MPNopsPDCMRs=
 		</data>
 		<key>ios-arm64/DailymotionChromecast.framework/Headers/DailymotionChromecast-Swift.h</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>ios-arm64/DailymotionChromecast.framework/Info.plist</key>
 		<data>
-		iwceC/HYDsQw0Z4xUEyyQs889mE=
+		R+ZHkVsgpRMdM8IfEL298L6hat4=
 		</data>
 		<key>ios-arm64/DailymotionChromecast.framework/Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>ios-arm64/DailymotionChromecast.framework/_CodeSignature/CodeResources</key>
 		<data>
-		gi/N/lL0skVP46otaZ+hsx9fm9k=
+		iz1SyU0uuzDQtQ+Zsp3wKX3M9PM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/ABCFavorit-Bold.otf</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/DailymotionChromecast</key>
 		<data>
-		Peb8xh+Gx1f7uXQo3/sxDwI+a7k=
+		A+4JjWCHMgxTppjWsRXnZZoTgAk=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/Headers/DailymotionChromecast-Swift.h</key>
 		<data>
@@ -106,7 +106,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/Info.plist</key>
 		<data>
-		K+p/p0fRF4oBUZzb8txWn/VzSzI=
+		3f/6qN7VjY6xpGyQuIKChoZ/iVk=
 		</data>
 		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -154,7 +154,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/_CodeSignature/CodeResources</key>
 		<data>
-		lfRqy7hIVQD2uBWel8RDV3UjhH8=
+		2v9ZMiPrXE5Ld5aPBOl5QMa+mnw=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -229,11 +229,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			v6W8UZMxZHK3IdGdfRhpza74Scg=
+			k2UdnSuwaG65JR7MPNopsPDCMRs=
 			</data>
 			<key>hash2</key>
 			<data>
-			dd1xdKrjl/gh5422gJFy7DKqsU3hW2eEVy+jWL2VXlU=
+			/B8IydzdU0SSxbFqDReTIoek2/kTPRlylOIBZPfpcbs=
 			</data>
 		</dict>
 		<key>ios-arm64/DailymotionChromecast.framework/Headers/DailymotionChromecast-Swift.h</key>
@@ -251,11 +251,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iwceC/HYDsQw0Z4xUEyyQs889mE=
+			R+ZHkVsgpRMdM8IfEL298L6hat4=
 			</data>
 			<key>hash2</key>
 			<data>
-			+gu8ZkV2g9m2KG3fWXHxUBlp8AWrRMulXI4h16kGzr4=
+			5oSDDJ1j8UT7r2B1Drt9+wy1qUch1yMTM1PsTrdEZhM=
 			</data>
 		</dict>
 		<key>ios-arm64/DailymotionChromecast.framework/Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -339,11 +339,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gi/N/lL0skVP46otaZ+hsx9fm9k=
+			iz1SyU0uuzDQtQ+Zsp3wKX3M9PM=
 			</data>
 			<key>hash2</key>
 			<data>
-			WVmAetqcksGG9i8L8QipkwWVRhRhbCa76GK2x4C8rSo=
+			HuyjbbeNfh+BPpHWrvU3fYv9pfEsXWGyQQpoBTnPnsQ=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/ABCFavorit-Bold.otf</key>
@@ -416,11 +416,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Peb8xh+Gx1f7uXQo3/sxDwI+a7k=
+			A+4JjWCHMgxTppjWsRXnZZoTgAk=
 			</data>
 			<key>hash2</key>
 			<data>
-			VHWx+Kbf31TEqfHwu++snmZVR9+5zrDshe4kXyLsATA=
+			d7exyDabhYyghoKa2EjdMLFLGTNetLOZVt30KXMw2So=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/Headers/DailymotionChromecast-Swift.h</key>
@@ -438,11 +438,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			K+p/p0fRF4oBUZzb8txWn/VzSzI=
+			3f/6qN7VjY6xpGyQuIKChoZ/iVk=
 			</data>
 			<key>hash2</key>
 			<data>
-			TrIK9uyEO+Yb7lHvlSt/pJNfFc7TvSYg7EveMxTg36k=
+			y7jmKydkDc6BCpYkTl7pzsy5w9BJVxdcUSWl/G6Pk1Q=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/DailymotionChromecast.framework/Modules/DailymotionChromecast.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -570,11 +570,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lfRqy7hIVQD2uBWel8RDV3UjhH8=
+			2v9ZMiPrXE5Ld5aPBOl5QMa+mnw=
 			</data>
 			<key>hash2</key>
 			<data>
-			Az4QycOpA42zn4PbPNIpAwBbfqvcjFj/EtILU2ULXYc=
+			ZTapfYRn/+B2tFhT03GLdMYcmadppuM10Rfnkcly9t0=
 			</data>
 		</dict>
 	</dict>
