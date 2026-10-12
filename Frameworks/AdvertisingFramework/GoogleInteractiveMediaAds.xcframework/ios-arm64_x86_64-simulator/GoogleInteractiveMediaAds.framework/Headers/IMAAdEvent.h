@@ -11,6 +11,8 @@
 
 #import "IMAAd.h"
 
+@class IMACustomUI;
+
 NS_ASSUME_NONNULL_BEGIN
 
 #pragma mark IMAAdEventType
@@ -127,7 +129,17 @@ typedef NS_ENUM(NSInteger, IMAAdEventType) {
   /**
    * Third quartile of a linear ad was reached.
    */
-  kIMAAdEvent_THIRD_QUARTILE
+  kIMAAdEvent_THIRD_QUARTILE,
+  /**
+   * Show ad UI.
+   * :nodoc:
+   */
+  kIMAAdEvent_SHOW_AD_UI,
+  /**
+   * Hide ad UI.
+   * :nodoc:
+   */
+  kIMAAdEvent_HIDE_AD_UI,
 };
 
 #pragma mark - Ad Data Keys
@@ -153,6 +165,13 @@ extern NSString *const kIMAAdBreakTime;
  * Stringified type of the event.
  */
 @property(nonatomic, copy, readonly) NSString *typeString;
+
+/**
+ * Custom UI object associated with the event.
+ * Only available on SHOW_AD_UI event.
+ * :nodoc:
+ */
+@property(nonatomic, readonly, nullable) IMACustomUI *customUI;
 
 /**
  * The current ad that is playing or just played. This will be nil except for

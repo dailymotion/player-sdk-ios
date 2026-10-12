@@ -11,6 +11,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 @class IMAAdDisplayContainer;
+@class IMACustomUIOptions;
 @class IMASecureSignals;
 @protocol IMAVideoDisplay;
 
@@ -18,6 +19,18 @@ NS_ASSUME_NONNULL_BEGIN
  * Data class describing the stream request.
  */
 @interface IMAStreamRequest : NSObject
+
+/**
+ * The network code for the publisher making this stream request. Network codes are required for Pod
+ * serving stream requests (made with IMAPodStreamRequest or IMAPodVODStreamRequest) and Cloud
+ * stitching stream requests (IMAVideoStitcherLiveStreamRequest or IMAVideoStitcherVODStreamRequest)
+ * and are optional but recommended for Full service stream requests (IMALiveStreamRequest or
+ * IMAVODStreamRequest). The code is used to apply settings selected in the Ad Manager UI such as
+ * programmatic limited ads enablement. For Pod serving and Cloud stitching it is also used to
+ * locate and play the stream. To find the network code, see
+ * <a href="//support.google.com/admanager/answer/7674889">this article</a>.
+ */
+@property(nonatomic, readonly, nullable) NSString *networkCode;
 
 /**
  * The stream display container for displaying the ad UI.
@@ -32,7 +45,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  * The stream request API key. It's configured through the
  * <a href="//support.google.com/dfp_premium/answer/6381445">
- * DFP Admin UI</a> and provided to the publisher to unlock their content.
+ * Google Ad Manager Admin UI</a> and provided to the publisher to unlock their content.
  * It verifies the applications that are attempting to access the content.
  */
 @property(nonatomic, copy, nullable) NSString *apiKey;
@@ -96,6 +109,14 @@ NS_ASSUME_NONNULL_BEGIN
  * The user context.
  */
 @property(nonatomic, readonly, nullable) id userContext;
+
+/**
+ * Specifies the custom UI options for this stream request. Determines what features are supported.
+ * When a new feature is added it will be listed in the custom UI options interface, defaulting its
+ * support to false.
+ * :nodoc:
+ */
+@property(nonatomic, nullable) IMACustomUIOptions *customUIOptions;
 
 /**
  * :nodoc:

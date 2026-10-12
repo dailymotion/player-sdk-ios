@@ -12,9 +12,6 @@ NS_ASSUME_NONNULL_BEGIN
  */
 @interface IMAPodVODStreamRequest : IMAStreamRequest
 
-/** The network code for the stream request. */
-@property(nonatomic, copy, readonly) NSString *networkCode;
-
 /**
  * Initializes a stream request instance with the given network. Uses the given ad display container
  * to display the stream.

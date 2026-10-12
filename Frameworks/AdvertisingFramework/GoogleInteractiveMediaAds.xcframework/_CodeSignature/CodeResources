@@ -6,11 +6,11 @@
 	<dict>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/GoogleInteractiveMediaAds</key>
 		<data>
-		54KyBgCPy/RDYq43ANkf2CWhLpg=
+		YbVG+Vhsbpq4gQw8qLCbVMuobAk=
 		</data>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/GoogleInteractiveMediaAds.h</key>
 		<data>
-		BqM06QY3ViJ7n9p12bvkkGNgtAU=
+		VnQ4Fu+NXFB6lZIGeYjIvZF3F9A=
 		</data>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMAAVPlayerContentPlayhead.h</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMAAdEvent.h</key>
 		<data>
-		a28+hojso1VwOwEe8T77+X6HXHA=
+		Py3BRdRIBHwbcSCc9uP3jDPI4gw=
 		</data>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMAAdPlaybackInfo.h</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMAAdsRenderingSettings.h</key>
 		<data>
-		cK0CHxwCf9G6VZ6X+lKHybclOXI=
+		QjBJ8v2S3F8VYa23eajd+m84nI8=
 		</data>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMAAdsRequest.h</key>
 		<data>
-		wqDWSej2ZqZoasOnSBsA8NiMd3M=
+		7IiBmTKtmrw5XVWZKXcXOckmRmo=
 		</data>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMACompanionAd.h</key>
 		<data>
@@ -76,13 +76,25 @@
 		<data>
 		fs2cliB5CarMCR2EKXvKIFBpJOU=
 		</data>
+		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMACustomUI.h</key>
+		<data>
+		uqlB1K9LhDWyR+bA59a9On+MQMk=
+		</data>
+		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMACustomUIConfig.h</key>
+		<data>
+		uxMxLyOVd2XojcBEyBaphPcbyM8=
+		</data>
+		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMACustomUIOptions.h</key>
+		<data>
+		in9A2gCHgwxdd41Q+kTyQakkiPI=
+		</data>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMAFriendlyObstruction.h</key>
 		<data>
 		G9zOh7DPlj8DJvi1zmHzLtkxqZs=
 		</data>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMALiveStreamRequest.h</key>
 		<data>
-		CQ/dI5f0AZtCZKdEBev4l2JVHwA=
+		zEuG+mvVA9uVjsAMvgvX1B0HHiQ=
 		</data>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMAPictureInPictureProxy.h</key>
 		<data>
@@ -90,11 +102,11 @@
 		</data>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMAPodStreamRequest.h</key>
 		<data>
-		I30ClnjPhZYK5dJPTDW4XVxtnmc=
+		fz4uqUNK4TzseOvgAsZsQkCzBps=
 		</data>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMAPodVODStreamRequest.h</key>
 		<data>
-		t6zR1l83+9vo4sY+cOQ/3psabxg=
+		y9a+dw6/+oNysq78+ibH1sM/m9U=
 		</data>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMASecureSignals.h</key>
 		<data>
@@ -106,7 +118,7 @@
 		</data>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMASettings.h</key>
 		<data>
-		zC5PIWRfAMvlhFsimH520ReyTVw=
+		zvM/9Yos1RuVv0tlwc2CMagCF8g=
 		</data>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMAStreamManager.h</key>
 		<data>
@@ -114,11 +126,11 @@
 		</data>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMAStreamRequest.h</key>
 		<data>
-		+ticsqpFg0pFdw0qjMFkVQbJwwA=
+		2ajFIA6FpCbLZGek6elzmVYqI74=
 		</data>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMAUiElements.h</key>
 		<data>
-		Y+oo6zi/Jdtc/r0xUVUhUC2TwAk=
+		KTq3ybW1E6ARibCTGADdxZVRLfU=
 		</data>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMAUniversalAdID.h</key>
 		<data>
@@ -126,7 +138,7 @@
 		</data>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMAVODStreamRequest.h</key>
 		<data>
-		GevyjknKSmOG0nSl9JAk9sEvhB0=
+		Mitcr501MqGgtxxGT6aNxFA0+VQ=
 		</data>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMAVersion.h</key>
 		<data>
@@ -134,7 +146,11 @@
 		</data>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMAVideoDisplay.h</key>
 		<data>
-		k1Zq9H87xR778llLPKfRZuvUzxg=
+		CR+GUfRuBKEYR0jzG+NdlXeaAww=
+		</data>
+		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMAVideoOrientation.h</key>
+		<data>
+		ckQ6aobycyfMhNW50K1ablgDQBM=
 		</data>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMAVideoStitcherLiveStreamRequest.h</key>
 		<data>
@@ -142,11 +158,11 @@
 		</data>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMAVideoStitcherVODStreamRequest.h</key>
 		<data>
-		mmp2YekOuWGHq7B7SB8+g2sqyf4=
+		qz0g7tJslvN8TcUpHLzKeKNmkg8=
 		</data>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Info.plist</key>
 		<data>
-		qQPefyocBYCaw5dY+allaM0BSwE=
+		4+7p+ZS52IwfSfw1CuJ+S4jS6Ac=
 		</data>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Modules/module.modulemap</key>
 		<data>
@@ -162,15 +178,15 @@
 		</data>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/VERSION</key>
 		<data>
-		d/RgP9jy3q/ltS/Gxdllmcgw9Og=
+		kkLt78HhQfCUCVUBtBNI2CPUQyo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/GoogleInteractiveMediaAds</key>
 		<data>
-		oXJOr3YYNXo1SneCM7qrgxXE8Ck=
+		fUanFP2gQAWM2PFBNEy7dWBZOUw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/GoogleInteractiveMediaAds.h</key>
 		<data>
-		BqM06QY3ViJ7n9p12bvkkGNgtAU=
+		VnQ4Fu+NXFB6lZIGeYjIvZF3F9A=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMAAVPlayerContentPlayhead.h</key>
 		<data>
@@ -194,7 +210,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMAAdEvent.h</key>
 		<data>
-		a28+hojso1VwOwEe8T77+X6HXHA=
+		Py3BRdRIBHwbcSCc9uP3jDPI4gw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMAAdPlaybackInfo.h</key>
 		<data>
@@ -214,11 +230,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMAAdsRenderingSettings.h</key>
 		<data>
-		cK0CHxwCf9G6VZ6X+lKHybclOXI=
+		QjBJ8v2S3F8VYa23eajd+m84nI8=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMAAdsRequest.h</key>
 		<data>
-		wqDWSej2ZqZoasOnSBsA8NiMd3M=
+		7IiBmTKtmrw5XVWZKXcXOckmRmo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMACompanionAd.h</key>
 		<data>
@@ -236,13 +252,25 @@
 		<data>
 		fs2cliB5CarMCR2EKXvKIFBpJOU=
 		</data>
+		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMACustomUI.h</key>
+		<data>
+		uqlB1K9LhDWyR+bA59a9On+MQMk=
+		</data>
+		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMACustomUIConfig.h</key>
+		<data>
+		uxMxLyOVd2XojcBEyBaphPcbyM8=
+		</data>
+		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMACustomUIOptions.h</key>
+		<data>
+		in9A2gCHgwxdd41Q+kTyQakkiPI=
+		</data>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMAFriendlyObstruction.h</key>
 		<data>
 		G9zOh7DPlj8DJvi1zmHzLtkxqZs=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMALiveStreamRequest.h</key>
 		<data>
-		CQ/dI5f0AZtCZKdEBev4l2JVHwA=
+		zEuG+mvVA9uVjsAMvgvX1B0HHiQ=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMAPictureInPictureProxy.h</key>
 		<data>
@@ -250,11 +278,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMAPodStreamRequest.h</key>
 		<data>
-		I30ClnjPhZYK5dJPTDW4XVxtnmc=
+		fz4uqUNK4TzseOvgAsZsQkCzBps=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMAPodVODStreamRequest.h</key>
 		<data>
-		t6zR1l83+9vo4sY+cOQ/3psabxg=
+		y9a+dw6/+oNysq78+ibH1sM/m9U=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMASecureSignals.h</key>
 		<data>
@@ -266,7 +294,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMASettings.h</key>
 		<data>
-		zC5PIWRfAMvlhFsimH520ReyTVw=
+		zvM/9Yos1RuVv0tlwc2CMagCF8g=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMAStreamManager.h</key>
 		<data>
@@ -274,11 +302,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMAStreamRequest.h</key>
 		<data>
-		+ticsqpFg0pFdw0qjMFkVQbJwwA=
+		2ajFIA6FpCbLZGek6elzmVYqI74=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMAUiElements.h</key>
 		<data>
-		Y+oo6zi/Jdtc/r0xUVUhUC2TwAk=
+		KTq3ybW1E6ARibCTGADdxZVRLfU=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMAUniversalAdID.h</key>
 		<data>
@@ -286,7 +314,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMAVODStreamRequest.h</key>
 		<data>
-		GevyjknKSmOG0nSl9JAk9sEvhB0=
+		Mitcr501MqGgtxxGT6aNxFA0+VQ=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMAVersion.h</key>
 		<data>
@@ -294,7 +322,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMAVideoDisplay.h</key>
 		<data>
-		k1Zq9H87xR778llLPKfRZuvUzxg=
+		CR+GUfRuBKEYR0jzG+NdlXeaAww=
+		</data>
+		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMAVideoOrientation.h</key>
+		<data>
+		ckQ6aobycyfMhNW50K1ablgDQBM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMAVideoStitcherLiveStreamRequest.h</key>
 		<data>
@@ -302,11 +334,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMAVideoStitcherVODStreamRequest.h</key>
 		<data>
-		mmp2YekOuWGHq7B7SB8+g2sqyf4=
+		qz0g7tJslvN8TcUpHLzKeKNmkg8=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Info.plist</key>
 		<data>
-		dftp6wWW0jlxYsV9w7G9YLGzMKs=
+		OOBViSLuEDJ5CQNFM81l/PR7rO8=
 		</data>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Modules/module.modulemap</key>
 		<data>
@@ -322,7 +354,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/VERSION</key>
 		<data>
-		d/RgP9jy3q/ltS/Gxdllmcgw9Og=
+		kkLt78HhQfCUCVUBtBNI2CPUQyo=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -331,22 +363,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			54KyBgCPy/RDYq43ANkf2CWhLpg=
+			YbVG+Vhsbpq4gQw8qLCbVMuobAk=
 			</data>
 			<key>hash2</key>
 			<data>
-			Tql7LmbZzqR69V3pVtIFpDILhGIZtlCp1QYlh2R6rJQ=
+			Ya7IxvQNGr6sdzgivNMB6HOSQB9QFTxXaQ/+KjIbTq0=
 			</data>
 		</dict>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/GoogleInteractiveMediaAds.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BqM06QY3ViJ7n9p12bvkkGNgtAU=
+			VnQ4Fu+NXFB6lZIGeYjIvZF3F9A=
 			</data>
 			<key>hash2</key>
 			<data>
-			/D0gqfEvtvVSKivX68COS9Tmn2ruKgU6ULIaPg49C9c=
+			e+e5+M/Ns/OV8MiFKLHn6Ut2XPzp9vf8L8kD09Vfpv4=
 			</data>
 		</dict>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMAAVPlayerContentPlayhead.h</key>
@@ -408,11 +440,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			a28+hojso1VwOwEe8T77+X6HXHA=
+			Py3BRdRIBHwbcSCc9uP3jDPI4gw=
 			</data>
 			<key>hash2</key>
 			<data>
-			+7fjcJZ/mYlehr89frZzgldGjOY6hJ2u6znemmkftJA=
+			VyJLLGdS2w9YN6xqb8Ig+34MK0yj++RnC4qGfsUHIl8=
 			</data>
 		</dict>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMAAdPlaybackInfo.h</key>
@@ -463,22 +495,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cK0CHxwCf9G6VZ6X+lKHybclOXI=
+			QjBJ8v2S3F8VYa23eajd+m84nI8=
 			</data>
 			<key>hash2</key>
 			<data>
-			iPJs100Im0JYHMPGrznd8jOau6ibe394HrIS5FL7TZ8=
+			5OJvXNZ5ixiFjthU9LQf+9nxEGsh8jo2Nv5+ChPqg18=
 			</data>
 		</dict>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMAAdsRequest.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wqDWSej2ZqZoasOnSBsA8NiMd3M=
+			7IiBmTKtmrw5XVWZKXcXOckmRmo=
 			</data>
 			<key>hash2</key>
 			<data>
-			0slZw+0V8Bho5H17uZbTJreze2cE/OMDVIrpr3R8WqQ=
+			QZPt/F4fQQoZWXeGp1IUfvsFtef2PXyTRC7AgIfhiVE=
 			</data>
 		</dict>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMACompanionAd.h</key>
@@ -525,6 +557,39 @@
 			aveYxFH7oD2VWQd0jc46hdOt5/ySR/JBQC6mXORtOKc=
 			</data>
 		</dict>
+		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMACustomUI.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uqlB1K9LhDWyR+bA59a9On+MQMk=
+			</data>
+			<key>hash2</key>
+			<data>
+			AfwC/G6cW9nr60uNzyYHxioS5/7CTQhZe+aithXDbjo=
+			</data>
+		</dict>
+		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMACustomUIConfig.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uxMxLyOVd2XojcBEyBaphPcbyM8=
+			</data>
+			<key>hash2</key>
+			<data>
+			FvWAP8atLGaN733AvD4cddlth2hT8HRh+BA8J/M274s=
+			</data>
+		</dict>
+		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMACustomUIOptions.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			in9A2gCHgwxdd41Q+kTyQakkiPI=
+			</data>
+			<key>hash2</key>
+			<data>
+			fVxBw6sH9DkIcE/G+eMx+brCFro3CFUrwiDMz8Pw1ys=
+			</data>
+		</dict>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMAFriendlyObstruction.h</key>
 		<dict>
 			<key>hash</key>
@@ -540,11 +605,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CQ/dI5f0AZtCZKdEBev4l2JVHwA=
+			zEuG+mvVA9uVjsAMvgvX1B0HHiQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			QkMZRql4DEBbvoRCF8GusuB3yKjpNSKGlP03jsCKKKs=
+			F1E95Ht1ySGWUGNVfZATfKf+99/cCc5efnPww5R+GXw=
 			</data>
 		</dict>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMAPictureInPictureProxy.h</key>
@@ -562,22 +627,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			I30ClnjPhZYK5dJPTDW4XVxtnmc=
+			fz4uqUNK4TzseOvgAsZsQkCzBps=
 			</data>
 			<key>hash2</key>
 			<data>
-			lburN41zfHe33zNgNiOq/++9u+IFkpamAhv3fhEXeLQ=
+			/z9w36n8hRXjzLa/r/92+Z9vd+3GbpqyhM4tu4Y2huk=
 			</data>
 		</dict>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMAPodVODStreamRequest.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			t6zR1l83+9vo4sY+cOQ/3psabxg=
+			y9a+dw6/+oNysq78+ibH1sM/m9U=
 			</data>
 			<key>hash2</key>
 			<data>
-			dBoOTQjxOlYVwr53pr0dQ2RVQWfJHs4nbqIkpxwJZHc=
+			2j7+Pw9hjGHTcvvPvmcrgvLMTUxuj4o4xHV+HZihHB4=
 			</data>
 		</dict>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMASecureSignals.h</key>
@@ -606,11 +671,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zC5PIWRfAMvlhFsimH520ReyTVw=
+			zvM/9Yos1RuVv0tlwc2CMagCF8g=
 			</data>
 			<key>hash2</key>
 			<data>
-			o4cmc8XoP1LvvQzmInOZ2DIdRc8Y3TmJWgRD3dISXrc=
+			NGWIlRwTBfGP0yawyiv/dPvh0IsD/j7C45nVAtTYGrg=
 			</data>
 		</dict>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMAStreamManager.h</key>
@@ -628,22 +693,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+ticsqpFg0pFdw0qjMFkVQbJwwA=
+			2ajFIA6FpCbLZGek6elzmVYqI74=
 			</data>
 			<key>hash2</key>
 			<data>
-			eVyC1UeJKZsc8WbglG14f8HIKLfhZP8rWziHkJYsLdc=
+			si9XLVVolF2R2+R5izVfK+yrm7qBNswI8JHRE12Tlug=
 			</data>
 		</dict>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMAUiElements.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Y+oo6zi/Jdtc/r0xUVUhUC2TwAk=
+			KTq3ybW1E6ARibCTGADdxZVRLfU=
 			</data>
 			<key>hash2</key>
 			<data>
-			mjl+nNzU33EOMCoGjcpw+O9Am8G7+o776miK2UNpNBY=
+			Q+SI/W5JAusG+W1oKdE6/N+/mJjESFbTdZSNOhiEeLY=
 			</data>
 		</dict>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMAUniversalAdID.h</key>
@@ -661,11 +726,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GevyjknKSmOG0nSl9JAk9sEvhB0=
+			Mitcr501MqGgtxxGT6aNxFA0+VQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			uJHk0Co/WEpxRgaqt0o9RId56A5/YgfXAFSsKnHgdzw=
+			CZb5s09HoWZf+YtFoue1rKNa0ikLwmjZYYd40pktg68=
 			</data>
 		</dict>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMAVersion.h</key>
@@ -683,11 +748,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			k1Zq9H87xR778llLPKfRZuvUzxg=
+			CR+GUfRuBKEYR0jzG+NdlXeaAww=
 			</data>
 			<key>hash2</key>
 			<data>
-			KMWegNwbgY0blZHJXjSbFkp0uvb9bmbLRGi06x9Dcy4=
+			v3ga4Ri/vzBXqMRhEuRwI5sLhnkadNuAEIdWiDh4Rt8=
+			</data>
+		</dict>
+		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMAVideoOrientation.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ckQ6aobycyfMhNW50K1ablgDQBM=
+			</data>
+			<key>hash2</key>
+			<data>
+			lXymvG0OX07wUkzwvYpneTyaXrmaHR2xPo9AVdn5wGQ=
 			</data>
 		</dict>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Headers/IMAVideoStitcherLiveStreamRequest.h</key>
@@ -705,22 +781,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mmp2YekOuWGHq7B7SB8+g2sqyf4=
+			qz0g7tJslvN8TcUpHLzKeKNmkg8=
 			</data>
 			<key>hash2</key>
 			<data>
-			NVvRsV3mVEegfPR2hzDwU6FIO9eEg6kSBp+ecW2kKy0=
+			yjzz2q/xtqKdkludoQfkJGOdnImMi0rpAxLDiez2qFA=
 			</data>
 		</dict>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qQPefyocBYCaw5dY+allaM0BSwE=
+			4+7p+ZS52IwfSfw1CuJ+S4jS6Ac=
 			</data>
 			<key>hash2</key>
 			<data>
-			qz00f1BkUxRYKYntH5FKHBmV37qVjfWtHiuJwjohQr0=
+			Yy2yPDdQxz4w3bhASVv6lR3O8IPK7Aq/U1n7VL6F5rw=
 			</data>
 		</dict>
 		<key>ios-arm64/GoogleInteractiveMediaAds.framework/Modules/module.modulemap</key>
@@ -760,33 +836,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			d/RgP9jy3q/ltS/Gxdllmcgw9Og=
+			kkLt78HhQfCUCVUBtBNI2CPUQyo=
 			</data>
 			<key>hash2</key>
 			<data>
-			79nErSoyIoriSAYl3AY+ECgn3t0V4nWUPnLm5ViWE/s=
+			Jv44UMcRrFj2DzoqMFrEPvkY+nXFxohvoQ9q0Nhc8Ao=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/GoogleInteractiveMediaAds</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oXJOr3YYNXo1SneCM7qrgxXE8Ck=
+			fUanFP2gQAWM2PFBNEy7dWBZOUw=
 			</data>
 			<key>hash2</key>
 			<data>
-			r+mGZddYac7XqKt0v1pF/zlyDuXt59NT8kviV68FPYc=
+			lbFpbbqBoetsJUX1EHyD0vu8vAggmQ0G3CKd57DBfjQ=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/GoogleInteractiveMediaAds.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BqM06QY3ViJ7n9p12bvkkGNgtAU=
+			VnQ4Fu+NXFB6lZIGeYjIvZF3F9A=
 			</data>
 			<key>hash2</key>
 			<data>
-			/D0gqfEvtvVSKivX68COS9Tmn2ruKgU6ULIaPg49C9c=
+			e+e5+M/Ns/OV8MiFKLHn6Ut2XPzp9vf8L8kD09Vfpv4=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMAAVPlayerContentPlayhead.h</key>
@@ -848,11 +924,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			a28+hojso1VwOwEe8T77+X6HXHA=
+			Py3BRdRIBHwbcSCc9uP3jDPI4gw=
 			</data>
 			<key>hash2</key>
 			<data>
-			+7fjcJZ/mYlehr89frZzgldGjOY6hJ2u6znemmkftJA=
+			VyJLLGdS2w9YN6xqb8Ig+34MK0yj++RnC4qGfsUHIl8=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMAAdPlaybackInfo.h</key>
@@ -903,22 +979,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cK0CHxwCf9G6VZ6X+lKHybclOXI=
+			QjBJ8v2S3F8VYa23eajd+m84nI8=
 			</data>
 			<key>hash2</key>
 			<data>
-			iPJs100Im0JYHMPGrznd8jOau6ibe394HrIS5FL7TZ8=
+			5OJvXNZ5ixiFjthU9LQf+9nxEGsh8jo2Nv5+ChPqg18=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMAAdsRequest.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wqDWSej2ZqZoasOnSBsA8NiMd3M=
+			7IiBmTKtmrw5XVWZKXcXOckmRmo=
 			</data>
 			<key>hash2</key>
 			<data>
-			0slZw+0V8Bho5H17uZbTJreze2cE/OMDVIrpr3R8WqQ=
+			QZPt/F4fQQoZWXeGp1IUfvsFtef2PXyTRC7AgIfhiVE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMACompanionAd.h</key>
@@ -965,6 +1041,39 @@
 			aveYxFH7oD2VWQd0jc46hdOt5/ySR/JBQC6mXORtOKc=
 			</data>
 		</dict>
+		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMACustomUI.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uqlB1K9LhDWyR+bA59a9On+MQMk=
+			</data>
+			<key>hash2</key>
+			<data>
+			AfwC/G6cW9nr60uNzyYHxioS5/7CTQhZe+aithXDbjo=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMACustomUIConfig.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uxMxLyOVd2XojcBEyBaphPcbyM8=
+			</data>
+			<key>hash2</key>
+			<data>
+			FvWAP8atLGaN733AvD4cddlth2hT8HRh+BA8J/M274s=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMACustomUIOptions.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			in9A2gCHgwxdd41Q+kTyQakkiPI=
+			</data>
+			<key>hash2</key>
+			<data>
+			fVxBw6sH9DkIcE/G+eMx+brCFro3CFUrwiDMz8Pw1ys=
+			</data>
+		</dict>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMAFriendlyObstruction.h</key>
 		<dict>
 			<key>hash</key>
@@ -980,11 +1089,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CQ/dI5f0AZtCZKdEBev4l2JVHwA=
+			zEuG+mvVA9uVjsAMvgvX1B0HHiQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			QkMZRql4DEBbvoRCF8GusuB3yKjpNSKGlP03jsCKKKs=
+			F1E95Ht1ySGWUGNVfZATfKf+99/cCc5efnPww5R+GXw=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMAPictureInPictureProxy.h</key>
@@ -1002,22 +1111,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			I30ClnjPhZYK5dJPTDW4XVxtnmc=
+			fz4uqUNK4TzseOvgAsZsQkCzBps=
 			</data>
 			<key>hash2</key>
 			<data>
-			lburN41zfHe33zNgNiOq/++9u+IFkpamAhv3fhEXeLQ=
+			/z9w36n8hRXjzLa/r/92+Z9vd+3GbpqyhM4tu4Y2huk=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMAPodVODStreamRequest.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			t6zR1l83+9vo4sY+cOQ/3psabxg=
+			y9a+dw6/+oNysq78+ibH1sM/m9U=
 			</data>
 			<key>hash2</key>
 			<data>
-			dBoOTQjxOlYVwr53pr0dQ2RVQWfJHs4nbqIkpxwJZHc=
+			2j7+Pw9hjGHTcvvPvmcrgvLMTUxuj4o4xHV+HZihHB4=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMASecureSignals.h</key>
@@ -1046,11 +1155,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zC5PIWRfAMvlhFsimH520ReyTVw=
+			zvM/9Yos1RuVv0tlwc2CMagCF8g=
 			</data>
 			<key>hash2</key>
 			<data>
-			o4cmc8XoP1LvvQzmInOZ2DIdRc8Y3TmJWgRD3dISXrc=
+			NGWIlRwTBfGP0yawyiv/dPvh0IsD/j7C45nVAtTYGrg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMAStreamManager.h</key>
@@ -1068,22 +1177,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+ticsqpFg0pFdw0qjMFkVQbJwwA=
+			2ajFIA6FpCbLZGek6elzmVYqI74=
 			</data>
 			<key>hash2</key>
 			<data>
-			eVyC1UeJKZsc8WbglG14f8HIKLfhZP8rWziHkJYsLdc=
+			si9XLVVolF2R2+R5izVfK+yrm7qBNswI8JHRE12Tlug=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMAUiElements.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Y+oo6zi/Jdtc/r0xUVUhUC2TwAk=
+			KTq3ybW1E6ARibCTGADdxZVRLfU=
 			</data>
 			<key>hash2</key>
 			<data>
-			mjl+nNzU33EOMCoGjcpw+O9Am8G7+o776miK2UNpNBY=
+			Q+SI/W5JAusG+W1oKdE6/N+/mJjESFbTdZSNOhiEeLY=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMAUniversalAdID.h</key>
@@ -1101,11 +1210,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GevyjknKSmOG0nSl9JAk9sEvhB0=
+			Mitcr501MqGgtxxGT6aNxFA0+VQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			uJHk0Co/WEpxRgaqt0o9RId56A5/YgfXAFSsKnHgdzw=
+			CZb5s09HoWZf+YtFoue1rKNa0ikLwmjZYYd40pktg68=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMAVersion.h</key>
@@ -1123,11 +1232,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			k1Zq9H87xR778llLPKfRZuvUzxg=
+			CR+GUfRuBKEYR0jzG+NdlXeaAww=
 			</data>
 			<key>hash2</key>
 			<data>
-			KMWegNwbgY0blZHJXjSbFkp0uvb9bmbLRGi06x9Dcy4=
+			v3ga4Ri/vzBXqMRhEuRwI5sLhnkadNuAEIdWiDh4Rt8=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMAVideoOrientation.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ckQ6aobycyfMhNW50K1ablgDQBM=
+			</data>
+			<key>hash2</key>
+			<data>
+			lXymvG0OX07wUkzwvYpneTyaXrmaHR2xPo9AVdn5wGQ=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Headers/IMAVideoStitcherLiveStreamRequest.h</key>
@@ -1145,22 +1265,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mmp2YekOuWGHq7B7SB8+g2sqyf4=
+			qz0g7tJslvN8TcUpHLzKeKNmkg8=
 			</data>
 			<key>hash2</key>
 			<data>
-			NVvRsV3mVEegfPR2hzDwU6FIO9eEg6kSBp+ecW2kKy0=
+			yjzz2q/xtqKdkludoQfkJGOdnImMi0rpAxLDiez2qFA=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dftp6wWW0jlxYsV9w7G9YLGzMKs=
+			OOBViSLuEDJ5CQNFM81l/PR7rO8=
 			</data>
 			<key>hash2</key>
 			<data>
-			Uhe2q6O/rqj6qlb7mpMtZh36zGyxvAOlMgTbp0Zsrq0=
+			aAB7q3PS0n6O1ERWJmqimNQoxiBOlEUY8cIYNW9f4jQ=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/GoogleInteractiveMediaAds.framework/Modules/module.modulemap</key>
@@ -1200,11 +1320,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			d/RgP9jy3q/ltS/Gxdllmcgw9Og=
+			kkLt78HhQfCUCVUBtBNI2CPUQyo=
 			</data>
 			<key>hash2</key>
 			<data>
-			79nErSoyIoriSAYl3AY+ECgn3t0V4nWUPnLm5ViWE/s=
+			Jv44UMcRrFj2DzoqMFrEPvkY+nXFxohvoQ9q0Nhc8Ao=
 			</data>
 		</dict>
 	</dict>

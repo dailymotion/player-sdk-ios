@@ -18,9 +18,6 @@ NS_ASSUME_NONNULL_BEGIN
 /** The URL of the content source for the stream. */
 @property(nonatomic, readonly, nullable) NSString *contentSourceURL;
 
-/** The networkCode associate with the stream. */
-@property(nonatomic, readonly) NSString *networkCode;
-
 /** The OAuth Token for the stream. */
 @property(nonatomic, readonly) NSString *OAuthToken;
 

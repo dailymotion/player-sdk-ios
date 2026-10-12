@@ -14,6 +14,9 @@
 #import <GoogleInteractiveMediaAds/IMACompanionAdSlot.h>
 #import <GoogleInteractiveMediaAds/IMAContentPlayhead.h>
 #import <GoogleInteractiveMediaAds/IMACuepoint.h>
+#import <GoogleInteractiveMediaAds/IMACustomUI.h>
+#import <GoogleInteractiveMediaAds/IMACustomUIConfig.h>
+#import <GoogleInteractiveMediaAds/IMACustomUIOptions.h>
 #import <GoogleInteractiveMediaAds/IMAFriendlyObstruction.h>
 #import <GoogleInteractiveMediaAds/IMALiveStreamRequest.h>
 #import <GoogleInteractiveMediaAds/IMAPictureInPictureProxy.h>
@@ -29,5 +32,6 @@
 #import <GoogleInteractiveMediaAds/IMAVODStreamRequest.h>
 #import <GoogleInteractiveMediaAds/IMAVersion.h>
 #import <GoogleInteractiveMediaAds/IMAVideoDisplay.h>
+#import <GoogleInteractiveMediaAds/IMAVideoOrientation.h>
 #import <GoogleInteractiveMediaAds/IMAVideoStitcherLiveStreamRequest.h>
 #import <GoogleInteractiveMediaAds/IMAVideoStitcherVODStreamRequest.h>

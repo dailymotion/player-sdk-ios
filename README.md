@@ -17,7 +17,7 @@
 
 ## Supported versions & requirements:
 - Swift 5+
-- iOS 14+
+- iOS 15+
 - Xcode 14+
 
 <br>

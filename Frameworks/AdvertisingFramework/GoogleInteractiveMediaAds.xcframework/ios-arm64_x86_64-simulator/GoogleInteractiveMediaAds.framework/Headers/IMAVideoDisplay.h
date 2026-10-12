@@ -198,6 +198,11 @@ NS_ASSUME_NONNULL_BEGIN
  */
 - (void)seekStreamToTime:(NSTimeInterval)time;
 
+/**
+ * Called to inform the VideoDisplay to skip the current interstitial item.
+ */
+- (void)skipCurrentInterstitialItem;
+
 @end
 
 NS_ASSUME_NONNULL_END

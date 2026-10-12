@@ -40,7 +40,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  * Feature flags and their states. Used to control experimental features.
  */
-@property(nonatomic, copy) NSDictionary<NSString *, NSString *> *featureFlags;
+@property(nonatomic, copy) NSDictionary<NSString *, id> *featureFlags;
 
 /**
  * Enable background audio playback for the SDK. The default value is NO.

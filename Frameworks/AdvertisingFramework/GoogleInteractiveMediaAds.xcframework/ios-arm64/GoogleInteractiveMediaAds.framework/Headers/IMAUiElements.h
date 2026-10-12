@@ -14,7 +14,10 @@ NS_ASSUME_NONNULL_BEGIN
 #pragma mark IMAUiElementType
 
 /**
- * Different UI elements that can be customized.
+ * Ad UI elements you can customize in your app. Ignore this enum for tvOS. The tvOS IMA SDK does
+ * not support the
+ * <a href="../Classes/IMAAdsRenderingSettings#uielements"><code>IMAAdsRenderingSettings.uiElements</code></a>
+ * parameter.
  */
 typedef NS_ENUM(NSInteger, IMAUiElementType) {
   /**
